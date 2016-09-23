@@ -1,0 +1,642 @@
+[2016-06-27 16:15:15] NVML GPU monitoring is not available.
+[2016-06-27 16:15:15] Starting Stratum on stratum+tcp://litecoinpool.org:3333
+[2016-06-27 16:15:15] 1 miner threads started, using 'scrypt' algorithm.
+[2016-06-27 16:15:15] Stratum detected new block
+[2016-06-27 16:15:15] GPU #1: GeForce GTX 650 with compute capability 3.0
+[2016-06-27 16:15:15] GPU #1: interactive: 1, tex-cache: 0 , single-alloc: 0
+[2016-06-27 16:15:15] GPU #1: 32 hashes / 4.0 MB per warp.
+[2016-06-27 16:15:15] GPU #1: Performing auto-tuning (Patience...)
+[2016-06-27 16:15:15] GPU #1: maximum total warps (BxW): 199
+[2016-06-27 16:15:37] GPU #1: 90168.63 hash/s with configuration K4x32
+[2016-06-27 16:15:37] GPU #1: using launch configuration K4x32
+[2016-06-27 16:15:37] GPU #1: GeForce GTX 650, 84.91 khash/s
+[2016-06-27 16:15:57] Stratum detected new block
+[2016-06-27 16:15:57] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:16:07] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:16:07] accepted: 1/1 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:16:52] Stratum detected new block
+[2016-06-27 16:16:52] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:16:57] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:16:57] accepted: 2/2 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:16:59] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:16:59] accepted: 3/3 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:17:07] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:17:07] accepted: 4/4 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:17:32] Stratum detected new block
+[2016-06-27 16:17:32] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:17:34] Stratum detected new block
+[2016-06-27 16:17:34] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:17:37] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:17:37] accepted: 5/5 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:17:38] GPU #1: GeForce GTX 650, 83.90 khash/s
+[2016-06-27 16:17:38] accepted: 6/6 (100.00%), 83.90 khash/s (yay!!!)
+[2016-06-27 16:17:43] Stratum detected new block
+[2016-06-27 16:17:43] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:17:47] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:17:47] accepted: 7/7 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:17:48] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:17:48] accepted: 8/8 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:17:53] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:17:53] accepted: 9/9 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:17:54] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:17:54] accepted: 10/10 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:17:54] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:17:54] accepted: 11/11 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:17:55] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:17:55] accepted: 12/12 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:17:57] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:17:57] accepted: 13/13 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:18:01] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:18:01] accepted: 14/14 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:18:05] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:18:05] accepted: 15/15 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:18:05] GPU #1: GeForce GTX 650, 83.70 khash/s
+[2016-06-27 16:18:05] accepted: 16/16 (100.00%), 83.70 khash/s (yay!!!)
+[2016-06-27 16:18:06] GPU #1: GeForce GTX 650, 83.92 khash/s
+[2016-06-27 16:18:06] accepted: 17/17 (100.00%), 83.92 khash/s (yay!!!)
+[2016-06-27 16:18:06] GPU #1: GeForce GTX 650, 83.94 khash/s
+[2016-06-27 16:18:06] accepted: 18/18 (100.00%), 83.94 khash/s (yay!!!)
+[2016-06-27 16:18:10] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:18:10] accepted: 19/19 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:18:13] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:18:13] accepted: 20/20 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:18:16] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:18:16] accepted: 21/21 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:18:16] GPU #1: GeForce GTX 650, 83.58 khash/s
+[2016-06-27 16:18:16] accepted: 22/22 (100.00%), 83.58 khash/s (yay!!!)
+[2016-06-27 16:18:17] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:18:17] accepted: 23/23 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:18:18] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:18:18] accepted: 24/24 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:18:20] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:18:20] accepted: 25/25 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:18:21] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:18:21] accepted: 26/26 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:18:21] GPU #1: GeForce GTX 650, 83.75 khash/s
+[2016-06-27 16:18:21] accepted: 27/27 (100.00%), 83.75 khash/s (yay!!!)
+[2016-06-27 16:18:28] Stratum detected new block
+[2016-06-27 16:18:28] GPU #1: GeForce GTX 650, 84.07 khash/s
+[2016-06-27 16:18:32] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:18:32] accepted: 28/28 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:18:33] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:18:33] accepted: 29/29 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:18:36] Stratum detected new block
+[2016-06-27 16:18:36] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:18:37] GPU #1: GeForce GTX 650, 84.09 khash/s
+[2016-06-27 16:18:37] accepted: 30/30 (100.00%), 84.09 khash/s (yay!!!)
+[2016-06-27 16:18:41] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:18:41] accepted: 31/31 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:18:42] Stratum detected new block
+[2016-06-27 16:18:42] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:18:46] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:18:46] accepted: 32/32 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:18:54] Stratum detected new block
+[2016-06-27 16:18:54] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:19:02] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:19:02] accepted: 33/33 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:19:02] GPU #1: GeForce GTX 650, 83.91 khash/s
+[2016-06-27 16:19:02] accepted: 34/34 (100.00%), 83.91 khash/s (yay!!!)
+[2016-06-27 16:19:03] GPU #1: GeForce GTX 650, 83.85 khash/s
+[2016-06-27 16:19:03] accepted: 35/35 (100.00%), 83.85 khash/s (yay!!!)
+[2016-06-27 16:19:03] GPU #1: GeForce GTX 650, 83.86 khash/s
+[2016-06-27 16:19:03] accepted: 36/36 (100.00%), 83.86 khash/s (yay!!!)
+[2016-06-27 16:19:03] GPU #1: GeForce GTX 650, 84.09 khash/s
+[2016-06-27 16:19:03] accepted: 37/37 (100.00%), 84.09 khash/s (yay!!!)
+[2016-06-27 16:19:05] Stratum detected new block
+[2016-06-27 16:19:05] GPU #1: GeForce GTX 650, 84.06 khash/s
+[2016-06-27 16:19:06] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:19:06] accepted: 38/38 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:19:08] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:19:08] accepted: 39/39 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:19:15] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:19:15] accepted: 40/40 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:19:21] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:19:21] accepted: 41/41 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:19:22] GPU #1: GeForce GTX 650, 83.82 khash/s
+[2016-06-27 16:19:22] accepted: 42/42 (100.00%), 83.82 khash/s (yay!!!)
+[2016-06-27 16:19:24] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:19:24] accepted: 43/43 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:19:24] GPU #1: GeForce GTX 650, 83.61 khash/s
+[2016-06-27 16:19:24] accepted: 44/44 (100.00%), 83.61 khash/s (yay!!!)
+[2016-06-27 16:19:31] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:19:31] accepted: 45/45 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:19:34] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:19:34] accepted: 46/46 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:19:38] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:19:38] accepted: 47/47 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:19:40] Stratum detected new block
+[2016-06-27 16:19:40] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:19:41] GPU #1: GeForce GTX 650, 83.90 khash/s
+[2016-06-27 16:19:41] accepted: 48/48 (100.00%), 83.90 khash/s (yay!!!)
+[2016-06-27 16:19:42] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:19:42] accepted: 49/49 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:19:52] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:19:52] accepted: 50/50 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:20:02] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:20:02] accepted: 51/51 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:20:03] GPU #1: GeForce GTX 650, 83.96 khash/s
+[2016-06-27 16:20:03] accepted: 52/52 (100.00%), 83.96 khash/s (yay!!!)
+[2016-06-27 16:20:04] GPU #1: GeForce GTX 650, 83.95 khash/s
+[2016-06-27 16:20:04] accepted: 53/53 (100.00%), 83.95 khash/s (yay!!!)
+[2016-06-27 16:20:11] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:20:11] accepted: 54/54 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:20:33] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:20:33] accepted: 55/55 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:20:34] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:20:34] accepted: 56/56 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:20:35] Stratum detected new block
+[2016-06-27 16:20:35] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:20:36] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:20:36] accepted: 57/57 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:20:36] GPU #1: GeForce GTX 650, 83.61 khash/s
+[2016-06-27 16:20:36] accepted: 58/58 (100.00%), 83.61 khash/s (yay!!!)
+[2016-06-27 16:20:36] GPU #1: GeForce GTX 650, 83.61 khash/s
+[2016-06-27 16:20:36] accepted: 59/59 (100.00%), 83.61 khash/s (yay!!!)
+[2016-06-27 16:20:37] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:20:37] accepted: 60/60 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:20:37] GPU #1: GeForce GTX 650, 83.60 khash/s
+[2016-06-27 16:20:37] accepted: 61/61 (100.00%), 83.60 khash/s (yay!!!)
+[2016-06-27 16:20:39] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:20:39] accepted: 62/62 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:20:39] GPU #1: GeForce GTX 650, 83.62 khash/s
+[2016-06-27 16:20:39] accepted: 63/63 (100.00%), 83.62 khash/s (yay!!!)
+[2016-06-27 16:20:43] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:20:43] accepted: 64/64 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:20:48] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:20:48] accepted: 65/65 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:20:51] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:20:51] accepted: 66/66 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:20:54] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:20:54] accepted: 67/67 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:20:54] GPU #1: GeForce GTX 650, 83.78 khash/s
+[2016-06-27 16:20:54] accepted: 68/68 (100.00%), 83.78 khash/s (yay!!!)
+[2016-06-27 16:21:01] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:21:01] accepted: 69/69 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:21:03] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:21:03] accepted: 70/70 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:21:03] GPU #1: GeForce GTX 650, 83.91 khash/s
+[2016-06-27 16:21:03] accepted: 71/71 (100.00%), 83.91 khash/s (yay!!!)
+[2016-06-27 16:21:05] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:21:05] accepted: 72/72 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:21:06] Stratum detected new block
+[2016-06-27 16:21:06] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:21:07] GPU #1: GeForce GTX 650, 83.95 khash/s
+[2016-06-27 16:21:07] accepted: 73/73 (100.00%), 83.95 khash/s (yay!!!)
+[2016-06-27 16:21:09] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:21:09] accepted: 74/74 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:21:11] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:21:11] accepted: 75/75 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:21:19] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:21:19] accepted: 76/76 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:21:23] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:21:23] accepted: 77/77 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:21:24] GPU #1: GeForce GTX 650, 83.90 khash/s
+[2016-06-27 16:21:24] accepted: 78/78 (100.00%), 83.90 khash/s (yay!!!)
+[2016-06-27 16:21:35] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:21:35] accepted: 79/79 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:21:39] Stratum detected new block
+[2016-06-27 16:21:39] GPU #1: GeForce GTX 650, 84.06 khash/s
+[2016-06-27 16:21:39] GPU #1: GeForce GTX 650, 83.78 khash/s
+[2016-06-27 16:21:39] accepted: 80/80 (100.00%), 83.78 khash/s (yay!!!)
+[2016-06-27 16:21:42] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:21:42] accepted: 81/81 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:21:45] Stratum detected new block
+[2016-06-27 16:21:45] GPU #1: GeForce GTX 650, 84.07 khash/s
+[2016-06-27 16:21:50] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:21:50] accepted: 82/82 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:21:51] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:21:51] accepted: 83/83 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:21:52] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:21:52] accepted: 84/84 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:21:53] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:21:53] accepted: 85/85 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:21:57] Stratum detected new block
+[2016-06-27 16:21:57] GPU #1: GeForce GTX 650, 84.07 khash/s
+[2016-06-27 16:21:59] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:21:59] accepted: 86/86 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:22:00] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:22:00] accepted: 87/87 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:22:10] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:22:10] accepted: 88/88 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:22:15] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:22:15] accepted: 89/89 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:22:16] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:22:16] accepted: 90/90 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:22:18] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:22:18] accepted: 91/91 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:22:22] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:22:22] accepted: 92/92 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:22:23] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:22:23] accepted: 93/93 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:22:24] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:22:24] accepted: 94/94 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:22:33] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:22:33] accepted: 95/95 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:22:34] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:22:34] accepted: 96/96 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:22:36] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:22:36] accepted: 97/97 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:22:37] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:22:37] accepted: 98/98 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:22:38] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:22:38] accepted: 99/99 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:22:44] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:22:44] accepted: 100/100 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:22:45] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:22:45] accepted: 101/101 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:22:46] GPU #1: GeForce GTX 650, 83.95 khash/s
+[2016-06-27 16:22:46] accepted: 102/102 (100.00%), 83.95 khash/s (yay!!!)
+[2016-06-27 16:22:48] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:22:48] accepted: 103/103 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:22:50] Stratum detected new block
+[2016-06-27 16:22:50] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:22:51] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:22:51] accepted: 104/104 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:22:54] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:22:54] accepted: 105/105 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:23:06] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:23:06] accepted: 106/106 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:23:08] Stratum detected new block
+[2016-06-27 16:23:08] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:23:12] GPU #1: GeForce GTX 650, 84.07 khash/s
+[2016-06-27 16:23:12] accepted: 107/107 (100.00%), 84.07 khash/s (yay!!!)
+[2016-06-27 16:23:19] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:23:19] accepted: 108/108 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:23:25] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:23:25] accepted: 109/109 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:23:26] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:23:27] accepted: 110/110 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:23:27] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:23:27] accepted: 111/111 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:23:29] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:23:29] accepted: 112/112 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:23:37] GPU #1: GeForce GTX 650, 84.07 khash/s
+[2016-06-27 16:23:37] accepted: 113/113 (100.00%), 84.07 khash/s (yay!!!)
+[2016-06-27 16:23:38] GPU #1: GeForce GTX 650, 83.95 khash/s
+[2016-06-27 16:23:38] accepted: 114/114 (100.00%), 83.95 khash/s (yay!!!)
+[2016-06-27 16:23:41] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:23:41] accepted: 115/115 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:23:46] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:23:46] accepted: 116/116 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:23:48] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:23:48] accepted: 117/117 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:23:50] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:23:50] accepted: 118/118 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:23:50] GPU #1: GeForce GTX 650, 83.84 khash/s
+[2016-06-27 16:23:50] accepted: 119/119 (100.00%), 83.84 khash/s (yay!!!)
+[2016-06-27 16:23:52] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:23:52] accepted: 120/120 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:23:54] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:23:54] accepted: 121/121 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:23:56] Stratum detected new block
+[2016-06-27 16:23:56] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:24:04] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:24:04] accepted: 122/122 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:24:08] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:24:08] accepted: 123/123 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:24:15] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:24:15] accepted: 124/124 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:24:15] GPU #1: GeForce GTX 650, 83.83 khash/s
+[2016-06-27 16:24:15] accepted: 125/125 (100.00%), 83.83 khash/s (yay!!!)
+[2016-06-27 16:24:17] GPU #1: GeForce GTX 650, 84.00 khash/s
+[2016-06-27 16:24:17] accepted: 126/126 (100.00%), 84.00 khash/s (yay!!!)
+[2016-06-27 16:24:21] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:24:21] accepted: 127/127 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:24:28] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:24:28] accepted: 128/128 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:24:28] GPU #1: GeForce GTX 650, 83.96 khash/s
+[2016-06-27 16:24:28] accepted: 129/129 (100.00%), 83.96 khash/s (yay!!!)
+[2016-06-27 16:24:34] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:24:34] accepted: 130/130 (100.00%), 84.05 khash/s (yay!!!)
+[2016-06-27 16:24:36] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:24:36] accepted: 131/131 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:24:41] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:24:41] accepted: 132/132 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:24:44] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:24:44] accepted: 133/133 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:24:46] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:24:46] accepted: 134/134 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:24:47] GPU #1: GeForce GTX 650, 83.90 khash/s
+[2016-06-27 16:24:47] accepted: 135/135 (100.00%), 83.90 khash/s (yay!!!)
+[2016-06-27 16:24:48] GPU #1: GeForce GTX 650, 84.08 khash/s
+[2016-06-27 16:24:48] accepted: 136/136 (100.00%), 84.08 khash/s (yay!!!)
+[2016-06-27 16:24:51] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:24:51] accepted: 137/137 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:24:51] Stratum detected new block
+[2016-06-27 16:24:51] GPU #1: GeForce GTX 650, 83.91 khash/s
+[2016-06-27 16:24:58] GPU #1: GeForce GTX 650, 81.73 khash/s
+[2016-06-27 16:24:58] accepted: 138/138 (100.00%), 81.73 khash/s (yay!!!)
+[2016-06-27 16:25:02] GPU #1: GeForce GTX 650, 78.39 khash/s
+[2016-06-27 16:25:02] accepted: 139/139 (100.00%), 78.39 khash/s (yay!!!)
+[2016-06-27 16:25:07] GPU #1: GeForce GTX 650, 78.58 khash/s
+[2016-06-27 16:25:07] accepted: 140/140 (100.00%), 78.58 khash/s (yay!!!)
+[2016-06-27 16:25:10] GPU #1: GeForce GTX 650, 78.69 khash/s
+[2016-06-27 16:25:10] accepted: 141/141 (100.00%), 78.69 khash/s (yay!!!)
+[2016-06-27 16:25:11] GPU #1: GeForce GTX 650, 76.82 khash/s
+[2016-06-27 16:25:11] accepted: 142/142 (100.00%), 76.82 khash/s (yay!!!)
+[2016-06-27 16:25:16] GPU #1: GeForce GTX 650, 79.28 khash/s
+[2016-06-27 16:25:16] accepted: 143/143 (100.00%), 79.28 khash/s (yay!!!)
+[2016-06-27 16:25:23] Stratum detected new block
+[2016-06-27 16:25:23] GPU #1: GeForce GTX 650, 84.05 khash/s
+[2016-06-27 16:25:28] Stratum detected new block
+[2016-06-27 16:25:28] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:25:35] GPU #1: GeForce GTX 650, 84.03 khash/s
+[2016-06-27 16:25:35] accepted: 144/144 (100.00%), 84.03 khash/s (yay!!!)
+[2016-06-27 16:25:39] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:25:39] accepted: 145/145 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:25:40] GPU #1: GeForce GTX 650, 83.99 khash/s
+[2016-06-27 16:25:40] accepted: 146/146 (100.00%), 83.99 khash/s (yay!!!)
+[2016-06-27 16:25:41] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:25:41] accepted: 147/147 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:25:42] Stratum detected new block
+[2016-06-27 16:25:42] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:25:44] GPU #1: GeForce GTX 650, 83.98 khash/s
+[2016-06-27 16:25:44] accepted: 148/148 (100.00%), 83.98 khash/s (yay!!!)
+[2016-06-27 16:25:44] GPU #1: GeForce GTX 650, 83.81 khash/s
+[2016-06-27 16:25:44] accepted: 149/149 (100.00%), 83.81 khash/s (yay!!!)
+[2016-06-27 16:25:44] GPU #1: GeForce GTX 650, 83.84 khash/s
+[2016-06-27 16:25:44] accepted: 150/150 (100.00%), 83.84 khash/s (yay!!!)
+[2016-06-27 16:25:51] GPU #1: GeForce GTX 650, 82.17 khash/s
+[2016-06-27 16:25:51] accepted: 151/151 (100.00%), 82.17 khash/s (yay!!!)
+[2016-06-27 16:25:52] GPU #1: GeForce GTX 650, 84.61 khash/s
+[2016-06-27 16:25:52] accepted: 152/152 (100.00%), 84.61 khash/s (yay!!!)
+[2016-06-27 16:25:52] GPU #1: GeForce GTX 650, 84.72 khash/s
+[2016-06-27 16:25:52] accepted: 153/153 (100.00%), 84.72 khash/s (yay!!!)
+[2016-06-27 16:25:52] GPU #1: GeForce GTX 650, 84.10 khash/s
+[2016-06-27 16:25:52] accepted: 154/154 (100.00%), 84.10 khash/s (yay!!!)
+[2016-06-27 16:25:54] GPU #1: GeForce GTX 650, 84.54 khash/s
+[2016-06-27 16:25:54] accepted: 155/155 (100.00%), 84.54 khash/s (yay!!!)
+[2016-06-27 16:25:54] GPU #1: GeForce GTX 650, 84.21 khash/s
+[2016-06-27 16:25:54] accepted: 156/156 (100.00%), 84.21 khash/s (yay!!!)
+[2016-06-27 16:25:59] GPU #1: GeForce GTX 650, 79.65 khash/s
+[2016-06-27 16:25:59] accepted: 157/157 (100.00%), 79.65 khash/s (yay!!!)
+[2016-06-27 16:26:02] GPU #1: GeForce GTX 650, 82.87 khash/s
+[2016-06-27 16:26:02] accepted: 158/158 (100.00%), 82.87 khash/s (yay!!!)
+[2016-06-27 16:26:02] GPU #1: GeForce GTX 650, 85.12 khash/s
+[2016-06-27 16:26:02] accepted: 159/159 (100.00%), 85.12 khash/s (yay!!!)
+[2016-06-27 16:26:06] GPU #1: GeForce GTX 650, 83.41 khash/s
+[2016-06-27 16:26:06] accepted: 160/160 (100.00%), 83.41 khash/s (yay!!!)
+[2016-06-27 16:26:14] GPU #1: GeForce GTX 650, 81.47 khash/s
+[2016-06-27 16:26:14] accepted: 161/161 (100.00%), 81.47 khash/s (yay!!!)
+[2016-06-27 16:26:19] GPU #1: GeForce GTX 650, 81.10 khash/s
+[2016-06-27 16:26:19] accepted: 162/162 (100.00%), 81.10 khash/s (yay!!!)
+[2016-06-27 16:26:22] GPU #1: GeForce GTX 650, 84.26 khash/s
+[2016-06-27 16:26:22] accepted: 163/163 (100.00%), 84.26 khash/s (yay!!!)
+[2016-06-27 16:26:23] GPU #1: GeForce GTX 650, 82.80 khash/s
+[2016-06-27 16:26:23] accepted: 164/164 (100.00%), 82.80 khash/s (yay!!!)
+[2016-06-27 16:26:30] GPU #1: GeForce GTX 650, 81.81 khash/s
+[2016-06-27 16:26:30] accepted: 165/165 (100.00%), 81.81 khash/s (yay!!!)
+[2016-06-27 16:26:35] GPU #1: GeForce GTX 650, 80.86 khash/s
+[2016-06-27 16:26:35] accepted: 166/166 (100.00%), 80.86 khash/s (yay!!!)
+[2016-06-27 16:26:35] GPU #1: GeForce GTX 650, 84.81 khash/s
+[2016-06-27 16:26:35] accepted: 167/167 (100.00%), 84.81 khash/s (yay!!!)
+[2016-06-27 16:26:36] GPU #1: GeForce GTX 650, 84.84 khash/s
+[2016-06-27 16:26:36] accepted: 168/168 (100.00%), 84.84 khash/s (yay!!!)
+[2016-06-27 16:26:37] GPU #1: GeForce GTX 650, 84.48 khash/s
+[2016-06-27 16:26:37] accepted: 169/169 (100.00%), 84.48 khash/s (yay!!!)
+[2016-06-27 16:26:38] Stratum detected new block
+[2016-06-27 16:26:38] GPU #1: GeForce GTX 650, 84.46 khash/s
+[2016-06-27 16:26:39] GPU #1: GeForce GTX 650, 84.68 khash/s
+[2016-06-27 16:26:39] accepted: 170/170 (100.00%), 84.68 khash/s (yay!!!)
+[2016-06-27 16:26:43] GPU #1: GeForce GTX 650, 79.25 khash/s
+[2016-06-27 16:26:43] accepted: 171/171 (100.00%), 79.25 khash/s (yay!!!)
+[2016-06-27 16:26:44] GPU #1: GeForce GTX 650, 78.35 khash/s
+[2016-06-27 16:26:44] accepted: 172/172 (100.00%), 78.35 khash/s (yay!!!)
+[2016-06-27 16:26:48] GPU #1: GeForce GTX 650, 80.94 khash/s
+[2016-06-27 16:26:48] accepted: 173/173 (100.00%), 80.94 khash/s (yay!!!)
+[2016-06-27 16:26:51] GPU #1: GeForce GTX 650, 80.96 khash/s
+[2016-06-27 16:26:51] accepted: 174/174 (100.00%), 80.96 khash/s (yay!!!)
+[2016-06-27 16:26:52] GPU #1: GeForce GTX 650, 85.02 khash/s
+[2016-06-27 16:26:52] accepted: 175/175 (100.00%), 85.02 khash/s (yay!!!)
+[2016-06-27 16:26:52] GPU #1: GeForce GTX 650, 84.42 khash/s
+[2016-06-27 16:26:52] accepted: 176/176 (100.00%), 84.42 khash/s (yay!!!)
+[2016-06-27 16:26:57] GPU #1: GeForce GTX 650, 83.64 khash/s
+[2016-06-27 16:26:57] accepted: 177/177 (100.00%), 83.64 khash/s (yay!!!)
+[2016-06-27 16:27:02] GPU #1: GeForce GTX 650, 84.95 khash/s
+[2016-06-27 16:27:02] accepted: 178/178 (100.00%), 84.95 khash/s (yay!!!)
+[2016-06-27 16:27:03] GPU #1: GeForce GTX 650, 84.67 khash/s
+[2016-06-27 16:27:03] accepted: 179/179 (100.00%), 84.67 khash/s (yay!!!)
+[2016-06-27 16:27:05] GPU #1: GeForce GTX 650, 84.01 khash/s
+[2016-06-27 16:27:05] accepted: 180/180 (100.00%), 84.01 khash/s (yay!!!)
+[2016-06-27 16:27:14] GPU #1: GeForce GTX 650, 82.08 khash/s
+[2016-06-27 16:27:14] accepted: 181/181 (100.00%), 82.08 khash/s (yay!!!)
+[2016-06-27 16:27:16] GPU #1: GeForce GTX 650, 78.77 khash/s
+[2016-06-27 16:27:16] accepted: 182/182 (100.00%), 78.77 khash/s (yay!!!)
+[2016-06-27 16:27:16] GPU #1: GeForce GTX 650, 78.78 khash/s
+[2016-06-27 16:27:16] accepted: 183/183 (100.00%), 78.78 khash/s (yay!!!)
+[2016-06-27 16:27:21] GPU #1: GeForce GTX 650, 82.66 khash/s
+[2016-06-27 16:27:21] accepted: 184/184 (100.00%), 82.66 khash/s (yay!!!)
+[2016-06-27 16:27:22] GPU #1: GeForce GTX 650, 85.05 khash/s
+[2016-06-27 16:27:22] accepted: 185/185 (100.00%), 85.05 khash/s (yay!!!)
+[2016-06-27 16:27:30] GPU #1: GeForce GTX 650, 79.23 khash/s
+[2016-06-27 16:27:30] accepted: 186/186 (100.00%), 79.23 khash/s (yay!!!)
+[2016-06-27 16:27:33] Stratum detected new block
+[2016-06-27 16:27:33] GPU #1: GeForce GTX 650, 81.99 khash/s
+[2016-06-27 16:27:33] GPU #1: GeForce GTX 650, 82.03 khash/s
+[2016-06-27 16:27:33] accepted: 187/187 (100.00%), 82.03 khash/s (yay!!!)
+[2016-06-27 16:27:34] GPU #1: GeForce GTX 650, 85.18 khash/s
+[2016-06-27 16:27:34] accepted: 188/188 (100.00%), 85.18 khash/s (yay!!!)
+[2016-06-27 16:27:40] GPU #1: GeForce GTX 650, 82.12 khash/s
+[2016-06-27 16:27:40] accepted: 189/189 (100.00%), 82.12 khash/s (yay!!!)
+[2016-06-27 16:27:53] GPU #1: GeForce GTX 650, 82.88 khash/s
+[2016-06-27 16:27:53] accepted: 190/190 (100.00%), 82.88 khash/s (yay!!!)
+[2016-06-27 16:27:55] GPU #1: GeForce GTX 650, 82.62 khash/s
+[2016-06-27 16:27:55] accepted: 191/191 (100.00%), 82.62 khash/s (yay!!!)
+[2016-06-27 16:27:58] GPU #1: GeForce GTX 650, 78.96 khash/s
+[2016-06-27 16:27:58] accepted: 192/192 (100.00%), 78.96 khash/s (yay!!!)
+[2016-06-27 16:28:01] GPU #1: GeForce GTX 650, 81.13 khash/s
+[2016-06-27 16:28:01] accepted: 193/193 (100.00%), 81.13 khash/s (yay!!!)
+[2016-06-27 16:28:06] GPU #1: GeForce GTX 650, 83.33 khash/s
+[2016-06-27 16:28:06] accepted: 194/194 (100.00%), 83.33 khash/s (yay!!!)
+[2016-06-27 16:28:07] GPU #1: GeForce GTX 650, 82.48 khash/s
+[2016-06-27 16:28:07] accepted: 195/195 (100.00%), 82.48 khash/s (yay!!!)
+[2016-06-27 16:28:14] GPU #1: GeForce GTX 650, 81.78 khash/s
+[2016-06-27 16:28:14] accepted: 196/196 (100.00%), 81.78 khash/s (yay!!!)
+[2016-06-27 16:28:16] GPU #1: GeForce GTX 650, 85.18 khash/s
+[2016-06-27 16:28:16] accepted: 197/197 (100.00%), 85.18 khash/s (yay!!!)
+[2016-06-27 16:28:17] GPU #1: GeForce GTX 650, 84.93 khash/s
+[2016-06-27 16:28:17] accepted: 198/198 (100.00%), 84.93 khash/s (yay!!!)
+[2016-06-27 16:28:25] GPU #1: GeForce GTX 650, 84.92 khash/s
+[2016-06-27 16:28:25] accepted: 199/199 (100.00%), 84.92 khash/s (yay!!!)
+[2016-06-27 16:28:27] GPU #1: GeForce GTX 650, 78.77 khash/s
+[2016-06-27 16:28:27] accepted: 200/200 (100.00%), 78.77 khash/s (yay!!!)
+[2016-06-27 16:28:27] GPU #1: GeForce GTX 650, 78.80 khash/s
+[2016-06-27 16:28:27] accepted: 201/201 (100.00%), 78.80 khash/s (yay!!!)
+[2016-06-27 16:28:28] Stratum detected new block
+[2016-06-27 16:28:28] GPU #1: GeForce GTX 650, 78.37 khash/s
+[2016-06-27 16:28:31] GPU #1: GeForce GTX 650, 84.18 khash/s
+[2016-06-27 16:28:31] accepted: 202/202 (100.00%), 84.18 khash/s (yay!!!)
+[2016-06-27 16:28:32] GPU #1: GeForce GTX 650, 81.35 khash/s
+[2016-06-27 16:28:32] accepted: 203/203 (100.00%), 81.35 khash/s (yay!!!)
+[2016-06-27 16:28:35] GPU #1: GeForce GTX 650, 81.25 khash/s
+[2016-06-27 16:28:35] accepted: 204/204 (100.00%), 81.25 khash/s (yay!!!)
+[2016-06-27 16:28:47] Stratum detected new block
+[2016-06-27 16:28:47] GPU #1: GeForce GTX 650, 80.78 khash/s
+[2016-06-27 16:28:52] Stratum detected new block
+[2016-06-27 16:28:52] GPU #1: GeForce GTX 650, 78.95 khash/s
+[2016-06-27 16:28:56] GPU #1: GeForce GTX 650, 81.97 khash/s
+[2016-06-27 16:28:56] accepted: 205/205 (100.00%), 81.97 khash/s (yay!!!)
+[2016-06-27 16:28:57] GPU #1: GeForce GTX 650, 84.35 khash/s
+[2016-06-27 16:28:57] accepted: 206/206 (100.00%), 84.35 khash/s (yay!!!)
+[2016-06-27 16:29:00] GPU #1: GeForce GTX 650, 84.41 khash/s
+[2016-06-27 16:29:00] accepted: 207/207 (100.00%), 84.41 khash/s (yay!!!)
+[2016-06-27 16:29:01] GPU #1: GeForce GTX 650, 84.81 khash/s
+[2016-06-27 16:29:01] accepted: 208/208 (100.00%), 84.81 khash/s (yay!!!)
+[2016-06-27 16:29:01] GPU #1: GeForce GTX 650, 85.03 khash/s
+[2016-06-27 16:29:01] accepted: 209/209 (100.00%), 85.03 khash/s (yay!!!)
+[2016-06-27 16:29:04] GPU #1: GeForce GTX 650, 84.99 khash/s
+[2016-06-27 16:29:04] accepted: 210/210 (100.00%), 84.99 khash/s (yay!!!)
+[2016-06-27 16:29:04] GPU #1: GeForce GTX 650, 82.97 khash/s
+[2016-06-27 16:29:04] accepted: 211/211 (100.00%), 82.97 khash/s (yay!!!)
+[2016-06-27 16:29:07] GPU #1: GeForce GTX 650, 82.34 khash/s
+[2016-06-27 16:29:07] accepted: 212/212 (100.00%), 82.34 khash/s (yay!!!)
+[2016-06-27 16:29:14] GPU #1: GeForce GTX 650, 79.62 khash/s
+[2016-06-27 16:29:14] accepted: 213/213 (100.00%), 79.62 khash/s (yay!!!)
+[2016-06-27 16:29:21] GPU #1: GeForce GTX 650, 82.87 khash/s
+[2016-06-27 16:29:21] accepted: 214/214 (100.00%), 82.87 khash/s (yay!!!)
+[2016-06-27 16:29:24] GPU #1: GeForce GTX 650, 84.83 khash/s
+[2016-06-27 16:29:24] accepted: 215/215 (100.00%), 84.83 khash/s (yay!!!)
+[2016-06-27 16:29:26] GPU #1: GeForce GTX 650, 84.86 khash/s
+[2016-06-27 16:29:26] accepted: 216/216 (100.00%), 84.86 khash/s (yay!!!)
+[2016-06-27 16:29:33] GPU #1: GeForce GTX 650, 80.04 khash/s
+[2016-06-27 16:29:33] accepted: 217/217 (100.00%), 80.04 khash/s (yay!!!)
+[2016-06-27 16:29:36] GPU #1: GeForce GTX 650, 84.50 khash/s
+[2016-06-27 16:29:36] accepted: 218/218 (100.00%), 84.50 khash/s (yay!!!)
+[2016-06-27 16:29:40] GPU #1: GeForce GTX 650, 83.24 khash/s
+[2016-06-27 16:29:40] accepted: 219/219 (100.00%), 83.24 khash/s (yay!!!)
+[2016-06-27 16:29:41] GPU #1: GeForce GTX 650, 84.34 khash/s
+[2016-06-27 16:29:41] accepted: 220/220 (100.00%), 84.34 khash/s (yay!!!)
+[2016-06-27 16:29:46] GPU #1: GeForce GTX 650, 84.83 khash/s
+[2016-06-27 16:29:46] accepted: 221/221 (100.00%), 84.83 khash/s (yay!!!)
+[2016-06-27 16:29:47] Stratum detected new block
+[2016-06-27 16:29:47] GPU #1: GeForce GTX 650, 84.71 khash/s
+[2016-06-27 16:29:48] GPU #1: GeForce GTX 650, 84.65 khash/s
+[2016-06-27 16:29:48] accepted: 222/222 (100.00%), 84.65 khash/s (yay!!!)
+[2016-06-27 16:29:48] GPU #1: GeForce GTX 650, 84.89 khash/s
+[2016-06-27 16:29:48] accepted: 223/223 (100.00%), 84.89 khash/s (yay!!!)
+[2016-06-27 16:29:58] GPU #1: GeForce GTX 650, 80.16 khash/s
+[2016-06-27 16:29:58] accepted: 224/224 (100.00%), 80.16 khash/s (yay!!!)
+[2016-06-27 16:30:04] GPU #1: GeForce GTX 650, 81.63 khash/s
+[2016-06-27 16:30:04] accepted: 225/225 (100.00%), 81.63 khash/s (yay!!!)
+[2016-06-27 16:30:06] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:30:06] accepted: 226/226 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:30:08] GPU #1: GeForce GTX 650, 82.86 khash/s
+[2016-06-27 16:30:08] accepted: 227/227 (100.00%), 82.86 khash/s (yay!!!)
+[2016-06-27 16:30:09] GPU #1: GeForce GTX 650, 79.89 khash/s
+[2016-06-27 16:30:09] accepted: 228/228 (100.00%), 79.89 khash/s (yay!!!)
+[2016-06-27 16:30:12] GPU #1: GeForce GTX 650, 78.88 khash/s
+[2016-06-27 16:30:12] accepted: 229/229 (100.00%), 78.88 khash/s (yay!!!)
+[2016-06-27 16:30:12] GPU #1: GeForce GTX 650, 78.81 khash/s
+[2016-06-27 16:30:12] accepted: 230/230 (100.00%), 78.81 khash/s (yay!!!)
+[2016-06-27 16:30:13] GPU #1: GeForce GTX 650, 80.32 khash/s
+[2016-06-27 16:30:13] accepted: 231/231 (100.00%), 80.32 khash/s (yay!!!)
+[2016-06-27 16:30:18] GPU #1: GeForce GTX 650, 84.53 khash/s
+[2016-06-27 16:30:18] accepted: 232/232 (100.00%), 84.53 khash/s (yay!!!)
+[2016-06-27 16:30:22] GPU #1: GeForce GTX 650, 83.90 khash/s
+[2016-06-27 16:30:22] accepted: 233/233 (100.00%), 83.90 khash/s (yay!!!)
+[2016-06-27 16:30:25] GPU #1: GeForce GTX 650, 84.71 khash/s
+[2016-06-27 16:30:25] accepted: 234/234 (100.00%), 84.71 khash/s (yay!!!)
+[2016-06-27 16:30:26] GPU #1: GeForce GTX 650, 84.89 khash/s
+[2016-06-27 16:30:26] accepted: 235/235 (100.00%), 84.89 khash/s (yay!!!)
+[2016-06-27 16:30:27] GPU #1: GeForce GTX 650, 84.22 khash/s
+[2016-06-27 16:30:27] accepted: 236/236 (100.00%), 84.22 khash/s (yay!!!)
+[2016-06-27 16:30:31] GPU #1: GeForce GTX 650, 84.78 khash/s
+[2016-06-27 16:30:31] accepted: 237/237 (100.00%), 84.78 khash/s (yay!!!)
+[2016-06-27 16:30:32] GPU #1: GeForce GTX 650, 84.84 khash/s
+[2016-06-27 16:30:32] accepted: 238/238 (100.00%), 84.84 khash/s (yay!!!)
+[2016-06-27 16:30:33] GPU #1: GeForce GTX 650, 84.54 khash/s
+[2016-06-27 16:30:33] accepted: 239/239 (100.00%), 84.54 khash/s (yay!!!)
+[2016-06-27 16:30:34] GPU #1: GeForce GTX 650, 83.81 khash/s
+[2016-06-27 16:30:34] accepted: 240/240 (100.00%), 83.81 khash/s (yay!!!)
+[2016-06-27 16:30:42] Stratum detected new block
+[2016-06-27 16:30:42] GPU #1: GeForce GTX 650, 83.05 khash/s
+[2016-06-27 16:30:42] Stratum detected new block
+[2016-06-27 16:30:42] GPU #1: GeForce GTX 650, 79.93 khash/s
+[2016-06-27 16:30:43] GPU #1: GeForce GTX 650, 78.04 khash/s
+[2016-06-27 16:30:43] accepted: 241/241 (100.00%), 78.04 khash/s (yay!!!)
+[2016-06-27 16:30:45] GPU #1: GeForce GTX 650, 78.77 khash/s
+[2016-06-27 16:30:45] accepted: 242/242 (100.00%), 78.77 khash/s (yay!!!)
+[2016-06-27 16:30:47] GPU #1: GeForce GTX 650, 78.30 khash/s
+[2016-06-27 16:30:47] accepted: 243/243 (100.00%), 78.30 khash/s (yay!!!)
+[2016-06-27 16:30:48] Stratum detected new block
+[2016-06-27 16:30:48] GPU #1: GeForce GTX 650, 78.83 khash/s
+[2016-06-27 16:30:51] GPU #1: GeForce GTX 650, 78.75 khash/s
+[2016-06-27 16:30:51] accepted: 244/244 (100.00%), 78.75 khash/s (yay!!!)
+[2016-06-27 16:30:54] GPU #1: GeForce GTX 650, 80.02 khash/s
+[2016-06-27 16:30:54] accepted: 245/245 (100.00%), 80.02 khash/s (yay!!!)
+[2016-06-27 16:30:55] GPU #1: GeForce GTX 650, 84.32 khash/s
+[2016-06-27 16:30:55] accepted: 246/246 (100.00%), 84.32 khash/s (yay!!!)
+[2016-06-27 16:31:08] GPU #1: GeForce GTX 650, 81.57 khash/s
+[2016-06-27 16:31:08] accepted: 247/247 (100.00%), 81.57 khash/s (yay!!!)
+[2016-06-27 16:31:23] GPU #1: GeForce GTX 650, 80.67 khash/s
+[2016-06-27 16:31:23] accepted: 248/248 (100.00%), 80.67 khash/s (yay!!!)
+[2016-06-27 16:31:26] GPU #1: GeForce GTX 650, 80.07 khash/s
+[2016-06-27 16:31:26] accepted: 249/249 (100.00%), 80.07 khash/s (yay!!!)
+[2016-06-27 16:31:31] GPU #1: GeForce GTX 650, 80.41 khash/s
+[2016-06-27 16:31:31] accepted: 250/250 (100.00%), 80.41 khash/s (yay!!!)
+[2016-06-27 16:31:34] GPU #1: GeForce GTX 650, 78.50 khash/s
+[2016-06-27 16:31:34] accepted: 251/251 (100.00%), 78.50 khash/s (yay!!!)
+[2016-06-27 16:31:40] GPU #1: GeForce GTX 650, 79.59 khash/s
+[2016-06-27 16:31:40] accepted: 252/252 (100.00%), 79.59 khash/s (yay!!!)
+[2016-06-27 16:31:43] Stratum detected new block
+[2016-06-27 16:31:43] GPU #1: GeForce GTX 650, 84.57 khash/s
+[2016-06-27 16:31:45] GPU #1: GeForce GTX 650, 84.70 khash/s
+[2016-06-27 16:31:45] accepted: 253/253 (100.00%), 84.70 khash/s (yay!!!)
+[2016-06-27 16:31:46] Stratum detected new block
+[2016-06-27 16:31:46] GPU #1: GeForce GTX 650, 84.42 khash/s
+[2016-06-27 16:31:51] GPU #1: GeForce GTX 650, 82.22 khash/s
+[2016-06-27 16:31:51] accepted: 254/254 (100.00%), 82.22 khash/s (yay!!!)
+[2016-06-27 16:31:53] GPU #1: GeForce GTX 650, 84.59 khash/s
+[2016-06-27 16:31:53] accepted: 255/255 (100.00%), 84.59 khash/s (yay!!!)
+[2016-06-27 16:31:53] GPU #1: GeForce GTX 650, 84.07 khash/s
+[2016-06-27 16:31:53] accepted: 256/256 (100.00%), 84.07 khash/s (yay!!!)
+[2016-06-27 16:31:54] GPU #1: GeForce GTX 650, 84.09 khash/s
+[2016-06-27 16:31:54] accepted: 257/257 (100.00%), 84.09 khash/s (yay!!!)
+[2016-06-27 16:31:55] GPU #1: GeForce GTX 650, 79.99 khash/s
+[2016-06-27 16:31:55] accepted: 258/258 (100.00%), 79.99 khash/s (yay!!!)
+[2016-06-27 16:32:02] GPU #1: GeForce GTX 650, 82.40 khash/s
+[2016-06-27 16:32:02] accepted: 259/259 (100.00%), 82.40 khash/s (yay!!!)
+[2016-06-27 16:32:03] GPU #1: GeForce GTX 650, 82.04 khash/s
+[2016-06-27 16:32:03] accepted: 260/260 (100.00%), 82.04 khash/s (yay!!!)
+[2016-06-27 16:32:07] GPU #1: GeForce GTX 650, 82.60 khash/s
+[2016-06-27 16:32:07] accepted: 261/261 (100.00%), 82.60 khash/s (yay!!!)
+[2016-06-27 16:32:08] GPU #1: GeForce GTX 650, 84.23 khash/s
+[2016-06-27 16:32:08] accepted: 262/262 (100.00%), 84.23 khash/s (yay!!!)
+[2016-06-27 16:32:11] GPU #1: GeForce GTX 650, 81.55 khash/s
+[2016-06-27 16:32:11] accepted: 263/263 (100.00%), 81.55 khash/s (yay!!!)
+[2016-06-27 16:32:12] GPU #1: GeForce GTX 650, 78.10 khash/s
+[2016-06-27 16:32:12] accepted: 264/264 (100.00%), 78.10 khash/s (yay!!!)
+[2016-06-27 16:32:16] GPU #1: GeForce GTX 650, 84.02 khash/s
+[2016-06-27 16:32:16] accepted: 265/265 (100.00%), 84.02 khash/s (yay!!!)
+[2016-06-27 16:32:17] GPU #1: GeForce GTX 650, 78.61 khash/s
+[2016-06-27 16:32:17] accepted: 266/266 (100.00%), 78.61 khash/s (yay!!!)
+[2016-06-27 16:32:28] GPU #1: GeForce GTX 650, 79.00 khash/s
+[2016-06-27 16:32:28] accepted: 267/267 (100.00%), 79.00 khash/s (yay!!!)
+[2016-06-27 16:32:28] GPU #1: GeForce GTX 650, 83.66 khash/s
+[2016-06-27 16:32:28] accepted: 268/268 (100.00%), 83.66 khash/s (yay!!!)
+[2016-06-27 16:32:30] GPU #1: GeForce GTX 650, 83.97 khash/s
+[2016-06-27 16:32:30] accepted: 269/269 (100.00%), 83.97 khash/s (yay!!!)
+[2016-06-27 16:32:30] GPU #1: GeForce GTX 650, 84.37 khash/s
+[2016-06-27 16:32:30] accepted: 270/270 (100.00%), 84.37 khash/s (yay!!!)
+[2016-06-27 16:32:32] GPU #1: GeForce GTX 650, 84.43 khash/s
+[2016-06-27 16:32:32] accepted: 271/271 (100.00%), 84.43 khash/s (yay!!!)
+[2016-06-27 16:32:33] Stratum detected new block
+[2016-06-27 16:32:33] GPU #1: GeForce GTX 650, 81.88 khash/s
+[2016-06-27 16:32:34] GPU #1: GeForce GTX 650, 81.52 khash/s
+[2016-06-27 16:32:34] accepted: 272/272 (100.00%), 81.52 khash/s (yay!!!)
+[2016-06-27 16:32:35] GPU #1: GeForce GTX 650, 84.65 khash/s
+[2016-06-27 16:32:35] accepted: 273/273 (100.00%), 84.65 khash/s (yay!!!)
+[2016-06-27 16:32:39] GPU #1: GeForce GTX 650, 79.41 khash/s
+[2016-06-27 16:32:39] accepted: 274/274 (100.00%), 79.41 khash/s (yay!!!)
+[2016-06-27 16:32:44] GPU #1: GeForce GTX 650, 83.53 khash/s
+[2016-06-27 16:32:44] accepted: 275/275 (100.00%), 83.53 khash/s (yay!!!)
+[2016-06-27 16:32:44] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:32:44] accepted: 276/276 (100.00%), 84.04 khash/s (yay!!!)
+[2016-06-27 16:32:45] GPU #1: GeForce GTX 650, 83.96 khash/s
+[2016-06-27 16:32:45] accepted: 277/277 (100.00%), 83.96 khash/s (yay!!!)
+[2016-06-27 16:32:45] GPU #1: GeForce GTX 650, 83.30 khash/s
+[2016-06-27 16:32:46] accepted: 278/278 (100.00%), 83.30 khash/s (yay!!!)
+[2016-06-27 16:32:46] GPU #1: GeForce GTX 650, 85.14 khash/s
+[2016-06-27 16:32:46] accepted: 279/279 (100.00%), 85.14 khash/s (yay!!!)
+[2016-06-27 16:32:50] GPU #1: GeForce GTX 650, 84.04 khash/s
+[2016-06-27 16:32:50] accepted: 280/280 (100.00%), 84.04 khash/s (yay!!!)

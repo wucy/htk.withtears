@@ -1,0 +1,81 @@
+HLVNet.c: In function 'CollectPhoneStats':
+HLVNet.c:315: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:316: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:326: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:338: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:339: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c: At top level:
+HLVNet.c:166: warning: 'BSearch' defined but not used
+In file included from HLVRec.c:227:
+HLVRec-GC.c: In function 'MarkPath':
+HLVRec-GC.c:89: warning: assignment makes pointer from integer without a cast
+HLVRec-GC.c: In function 'SweepAltPaths':
+HLVRec-GC.c:197: warning: assignment makes pointer from integer without a cast
+HLVRec.c: At top level:
+HLVRec.c:566: warning: 'NewTokSetArray' defined but not used
+HLVRec-propagate.c:36: warning: 'winTok_cmp' defined but not used
+HLVRec-LM.c:138: warning: 'ResetLMCache' defined but not used
+HLVRec-LM.c:167: warning: 'LMCacheState_hash' defined but not used
+HLVRec-traceback.c:52: warning: 'PrintTok' defined but not used
+HLVRec-misc.c:61: warning: 'CheckTokenSetId' defined but not used
+HLVRec-misc.c:134: warning: 'CombinePaths' defined but not used
+HLVRec-traceback.c: In function 'AltPathList2Path':
+HLVRec-traceback.c:691: warning: 'bestAlt' may be used uninitialized in this function
+HLVRec-traceback.c: In function 'TraceBack':
+HLVRec-traceback.c:129: warning: 'bestTok' may be used uninitialized in this function
+HLVLM.c: In function 'FindMinSEntryP':
+HLVLM.c:937: warning: 'mid' may be used uninitialized in this function
+HLVLM.c: In function 'LMLookAhead_3gram':
+HLVLM.c:1047: warning: 'seLast_tg' may be used uninitialized in this function
+HLVLM.c:1047: warning: 'seLast_bg' may be used uninitialized in this function
+HLVLM.c: In function 'FindMinLatArc':
+HLVLM.c:1514: warning: 'mid' may be used uninitialized in this function
+HLVLM.c: In function 'GetLMEntry':
+HLVLM.c:240: warning: 'flags' may be used uninitialized in this function
+HLVLM.c: In function 'ReadARPALM':
+HLVLM.c:319: warning: 'curtmpSE' may be used uninitialized in this function
+HLVLM.c:319: note: 'curtmpSE' was declared here
+HLVNet.c: In function 'CollectPhoneStats':
+HLVNet.c:315: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:316: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:326: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:338: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c:339: warning: dereferencing type-punned pointer will break strict-aliasing rules
+HLVNet.c: At top level:
+HLVNet.c:166: warning: 'BSearch' defined but not used
+In file included from HLVRec.c:227:
+HLVRec-GC.c: In function 'MarkModPath':
+HLVRec-GC.c:65: warning: assignment makes pointer from integer without a cast
+HLVRec-GC.c: In function 'MarkPath':
+HLVRec-GC.c:89: warning: assignment makes pointer from integer without a cast
+HLVRec-GC.c: In function 'SweepAltPaths':
+HLVRec-GC.c:197: warning: assignment makes pointer from integer without a cast
+HLVRec-GC.c: In function 'SweepModPaths':
+HLVRec-GC.c:251: warning: assignment makes pointer from integer without a cast
+HLVRec.c: At top level:
+HLVRec.c:566: warning: 'NewTokSetArray' defined but not used
+HLVRec-propagate.c:36: warning: 'winTok_cmp' defined but not used
+HLVRec-LM.c:138: warning: 'ResetLMCache' defined but not used
+HLVRec-LM.c:167: warning: 'LMCacheState_hash' defined but not used
+HLVRec-traceback.c:52: warning: 'PrintTok' defined but not used
+HLVRec-misc.c:61: warning: 'CheckTokenSetId' defined but not used
+HLVRec-misc.c:134: warning: 'CombinePaths' defined but not used
+HLVRec-traceback.c: In function 'AltPathList2Path':
+HLVRec-traceback.c:691: warning: 'bestAlt' may be used uninitialized in this function
+HLVRec-traceback.c: In function 'PrintModPath':
+HLVRec-traceback.c:561: warning: 't' may be used uninitialized in this function
+HLVRec-traceback.c: In function 'TraceBack':
+HLVRec-traceback.c:129: warning: 'bestTok' may be used uninitialized in this function
+HLVLM.c: In function 'FindMinSEntryP':
+HLVLM.c:937: warning: 'mid' may be used uninitialized in this function
+HLVLM.c: In function 'LMLookAhead_3gram':
+HLVLM.c:1047: warning: 'seLast_tg' may be used uninitialized in this function
+HLVLM.c:1047: warning: 'seLast_bg' may be used uninitialized in this function
+HLVLM.c: In function 'FindMinLatArc':
+HLVLM.c:1514: warning: 'mid' may be used uninitialized in this function
+HLVLM.c: In function 'GetLMEntry':
+HLVLM.c:240: warning: 'flags' may be used uninitialized in this function
+HLVLM.c: In function 'ReadARPALM':
+HLVLM.c:319: warning: 'curtmpSE' may be used uninitialized in this function
+HLVLM.c:319: note: 'curtmpSE' was declared here
+

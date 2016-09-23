@@ -1,0 +1,17 @@
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LModel.o LModel.c
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LPMerge.o LPMerge.c
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LPCalc.o LPCalc.c
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LUtil.o LUtil.c
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LWMap.o LWMap.c
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LCMap.o LCMap.c
+gcc -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -DSANITY -I. -I../HTKLib/   -c -o LGBase.o LGBase.c
+if [ -f HLMLib.a ] ; then  /bin/rm HLMLib.a ; fi
+ar rv HLMLib.a LModel.o LPMerge.o LPCalc.o LUtil.o LWMap.o LCMap.o LGBase.o
+a - LModel.o
+a - LPMerge.o
+a - LPCalc.o
+a - LUtil.o
+a - LWMap.o
+a - LCMap.o
+a - LGBase.o
+ranlib HLMLib.a

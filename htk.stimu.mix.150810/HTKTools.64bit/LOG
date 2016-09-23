@@ -1,0 +1,1534 @@
+[2016-07-02 16:55:44] NVML GPU monitoring is not available.
+[2016-07-02 16:55:44] 1 miner threads started, using 'scrypt' algorithm.
+[2016-07-02 16:55:44] Starting Stratum on stratum+tcp://coinotron.com:3337
+[2016-07-02 16:55:44] Stratum detected new block
+[2016-07-02 16:55:45] GPU #0: Tesla K20c with compute capability 3.5
+[2016-07-02 16:55:45] GPU #0: interactive: 0, tex-cache: 0 , single-alloc: 0
+[2016-07-02 16:55:45] GPU #0: 32 hashes / 4.0 MB per warp.
+[2016-07-02 16:55:45] GPU #0: Performing auto-tuning (Patience...)
+[2016-07-02 16:55:45] GPU #0: maximum total warps (BxW): 1146
+[2016-07-02 16:55:47] Stratum detected new block
+[2016-07-02 16:56:17] Stratum detected new block
+[2016-07-02 16:56:43] Stratum detected new block
+[2016-07-02 16:56:55] stratum_recv_line failed
+[2016-07-02 16:56:55] Stratum connection interrupted
+[2016-07-02 16:56:55] Stratum detected new block
+[2016-07-02 16:56:59] Stratum detected new block
+[2016-07-02 16:57:08] Stratum detected new block
+[2016-07-02 16:57:26] Stratum detected new block
+[2016-07-02 16:57:48] Stratum detected new block
+[2016-07-02 16:58:18] Stratum detected new block
+[2016-07-02 16:58:35] stratum_recv_line failed
+[2016-07-02 16:58:35] Stratum connection interrupted
+[2016-07-02 16:58:35] Stratum detected new block
+[2016-07-02 16:58:48] Stratum detected new block
+[2016-07-02 16:59:18] Stratum detected new block
+[2016-07-02 16:59:21] Stratum detected new block
+[2016-07-02 16:59:45] Stratum detected new block
+[2016-07-02 17:00:15] stratum_recv_line failed
+[2016-07-02 17:00:15] Stratum connection interrupted
+[2016-07-02 17:00:15] Stratum detected new block
+[2016-07-02 17:00:15] Stratum detected new block
+[2016-07-02 17:00:23] GPU #0: 527416.80 hash/s with configuration T234x4
+[2016-07-02 17:00:23] GPU #0: using launch configuration T234x4
+[2016-07-02 17:00:23] GPU #0: Tesla K20c, 50171 khash/s
+[2016-07-02 17:00:26] GPU #0: Tesla K20c, 498.33 khash/s
+[2016-07-02 17:00:26] accepted: 0/1 (0.00%), 498.33 khash/s (booooo)
+[2016-07-02 17:00:36] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:00:37] accepted: 0/2 (0.00%), 498.67 khash/s (booooo)
+[2016-07-02 17:00:38] GPU #0: Tesla K20c, 498.84 khash/s
+[2016-07-02 17:00:38] accepted: 0/3 (0.00%), 498.84 khash/s (booooo)
+[2016-07-02 17:00:41] Stratum detected new block
+[2016-07-02 17:00:41] GPU #0: Tesla K20c, 498.93 khash/s
+[2016-07-02 17:00:52] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:00:52] accepted: 0/4 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:01:01] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:01:01] accepted: 0/5 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 17:01:11] Stratum detected new block
+[2016-07-02 17:01:11] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:01:37] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:01:37] accepted: 0/6 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:01:41] Stratum detected new block
+[2016-07-02 17:01:41] GPU #0: Tesla K20c, 498.82 khash/s
+[2016-07-02 17:01:59] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:01:59] accepted: 0/7 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:02:10] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:02:10] accepted: 0/8 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:02:11] Stratum detected new block
+[2016-07-02 17:02:11] GPU #0: Tesla K20c, 499.14 khash/s
+[2016-07-02 17:02:20] GPU #0: Tesla K20c, 498.40 khash/s
+[2016-07-02 17:02:20] accepted: 0/9 (0.00%), 498.40 khash/s (booooo)
+[2016-07-02 17:02:22] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:02:23] accepted: 0/10 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:02:24] GPU #0: Tesla K20c, 499.34 khash/s
+[2016-07-02 17:02:24] accepted: 0/11 (0.00%), 499.34 khash/s (booooo)
+[2016-07-02 17:02:25] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:02:25] accepted: 0/12 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:02:41] Stratum detected new block
+[2016-07-02 17:02:41] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:03:06] Stratum detected new block
+[2016-07-02 17:03:06] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:03:16] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:03:16] accepted: 0/13 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:03:30] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:03:30] accepted: 0/14 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:03:36] Stratum detected new block
+[2016-07-02 17:03:36] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:04:00] Stratum detected new block
+[2016-07-02 17:04:00] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:04:06] GPU #0: Tesla K20c, 498.43 khash/s
+[2016-07-02 17:04:06] accepted: 0/15 (0.00%), 498.43 khash/s (booooo)
+[2016-07-02 17:04:06] GPU #0: Tesla K20c, 499.01 khash/s
+[2016-07-02 17:04:06] accepted: 0/16 (0.00%), 499.01 khash/s (booooo)
+[2016-07-02 17:04:09] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:04:09] accepted: 0/17 (0.00%), 498.70 khash/s (booooo)
+[2016-07-02 17:04:30] Stratum detected new block
+[2016-07-02 17:04:30] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:04:30] Stratum detected new block
+[2016-07-02 17:04:30] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:04:37] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:04:37] accepted: 0/18 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:04:58] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:04:58] accepted: 0/19 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:05:00] Stratum detected new block
+[2016-07-02 17:05:00] GPU #0: Tesla K20c, 498.92 khash/s
+[2016-07-02 17:05:16] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:05:16] accepted: 0/20 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:05:16] GPU #0: Tesla K20c, 502.71 khash/s
+[2016-07-02 17:05:16] accepted: 0/21 (0.00%), 502.71 khash/s (booooo)
+[2016-07-02 17:05:30] Stratum detected new block
+[2016-07-02 17:05:30] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:05:33] GPU #0: Tesla K20c, 498.12 khash/s
+[2016-07-02 17:05:33] accepted: 0/22 (0.00%), 498.12 khash/s (booooo)
+[2016-07-02 17:05:34] GPU #0: Tesla K20c, 499.35 khash/s
+[2016-07-02 17:05:34] accepted: 0/23 (0.00%), 499.35 khash/s (booooo)
+[2016-07-02 17:05:36] Stratum detected new block
+[2016-07-02 17:05:36] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:05:43] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:05:43] accepted: 0/24 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:05:51] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:05:51] accepted: 0/25 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:05:51] GPU #0: Tesla K20c, 499.04 khash/s
+[2016-07-02 17:05:51] accepted: 0/26 (0.00%), 499.04 khash/s (booooo)
+[2016-07-02 17:06:06] Stratum detected new block
+[2016-07-02 17:06:06] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:06:10] GPU #0: Tesla K20c, 498.44 khash/s
+[2016-07-02 17:06:10] accepted: 0/27 (0.00%), 498.44 khash/s (booooo)
+[2016-07-02 17:06:28] Stratum detected new block
+[2016-07-02 17:06:28] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:06:59] Stratum detected new block
+[2016-07-02 17:06:59] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 17:07:03] Stratum detected new block
+[2016-07-02 17:07:03] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:07:08] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:07:08] accepted: 0/28 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:07:33] Stratum detected new block
+[2016-07-02 17:07:33] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:07:35] GPU #0: Tesla K20c, 498.18 khash/s
+[2016-07-02 17:07:35] accepted: 0/29 (0.00%), 498.18 khash/s (booooo)
+[2016-07-02 17:07:38] GPU #0: Tesla K20c, 498.36 khash/s
+[2016-07-02 17:07:38] accepted: 0/30 (0.00%), 498.36 khash/s (booooo)
+[2016-07-02 17:07:44] Stratum detected new block
+[2016-07-02 17:07:44] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:07:55] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:07:56] accepted: 0/31 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:08:01] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:08:01] accepted: 0/32 (0.00%), 498.68 khash/s (booooo)
+[2016-07-02 17:08:14] Stratum detected new block
+[2016-07-02 17:08:14] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 17:08:24] Stratum detected new block
+[2016-07-02 17:08:24] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:08:49] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:08:49] accepted: 0/33 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:08:54] Stratum detected new block
+[2016-07-02 17:08:54] GPU #0: Tesla K20c, 498.79 khash/s
+[2016-07-02 17:09:00] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:09:00] accepted: 0/34 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:09:24] Stratum detected new block
+[2016-07-02 17:09:24] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:09:28] Stratum detected new block
+[2016-07-02 17:09:28] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:09:30] Stratum detected new block
+[2016-07-02 17:09:30] GPU #0: Tesla K20c, 498.79 khash/s
+[2016-07-02 17:09:37] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 17:09:37] accepted: 0/35 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 17:09:49] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:09:49] accepted: 0/36 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:09:51] Stratum detected new block
+[2016-07-02 17:09:51] GPU #0: Tesla K20c, 499.12 khash/s
+[2016-07-02 17:10:05] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:10:05] accepted: 0/37 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:10:07] GPU #0: Tesla K20c, 498.12 khash/s
+[2016-07-02 17:10:07] accepted: 0/38 (0.00%), 498.12 khash/s (booooo)
+[2016-07-02 17:10:17] Stratum detected new block
+[2016-07-02 17:10:17] GPU #0: Tesla K20c, 498.77 khash/s
+[2016-07-02 17:10:26] Stratum detected new block
+[2016-07-02 17:10:26] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:10:30] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:10:30] accepted: 0/39 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:10:42] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:10:42] accepted: 0/40 (0.00%), 498.69 khash/s (booooo)
+[2016-07-02 17:10:54] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:10:54] accepted: 0/41 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:10:56] Stratum detected new block
+[2016-07-02 17:10:56] GPU #0: Tesla K20c, 499.03 khash/s
+[2016-07-02 17:11:26] Stratum detected new block
+[2016-07-02 17:11:26] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:11:26] GPU #0: Tesla K20c, 497.47 khash/s
+[2016-07-02 17:11:26] accepted: 0/42 (0.00%), 497.47 khash/s (booooo)
+[2016-07-02 17:11:35] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:11:35] accepted: 0/43 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:11:43] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:11:43] accepted: 0/44 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:11:52] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 17:11:52] accepted: 0/45 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 17:11:56] Stratum detected new block
+[2016-07-02 17:11:56] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:12:21] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:12:21] accepted: 0/46 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:12:26] Stratum detected new block
+[2016-07-02 17:12:26] GPU #0: Tesla K20c, 498.85 khash/s
+[2016-07-02 17:12:32] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:12:32] accepted: 0/47 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:12:56] Stratum detected new block
+[2016-07-02 17:12:56] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:13:04] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:13:04] accepted: 0/48 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:13:05] GPU #0: Tesla K20c, 498.91 khash/s
+[2016-07-02 17:13:05] accepted: 0/49 (0.00%), 498.91 khash/s (booooo)
+[2016-07-02 17:13:11] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:13:11] accepted: 0/50 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:13:17] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:13:17] accepted: 0/51 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:13:20] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 17:13:20] accepted: 0/52 (0.00%), 498.71 khash/s (booooo)
+[2016-07-02 17:13:26] Stratum detected new block
+[2016-07-02 17:13:26] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:13:40] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:13:40] accepted: 0/53 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:13:43] GPU #0: Tesla K20c, 498.43 khash/s
+[2016-07-02 17:13:44] accepted: 0/54 (0.00%), 498.43 khash/s (booooo)
+[2016-07-02 17:13:56] Stratum detected new block
+[2016-07-02 17:13:57] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:14:27] Stratum detected new block
+[2016-07-02 17:14:27] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:14:39] Stratum detected new block
+[2016-07-02 17:14:39] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:14:44] GPU #0: Tesla K20c, 498.21 khash/s
+[2016-07-02 17:14:44] accepted: 0/55 (0.00%), 498.21 khash/s (booooo)
+[2016-07-02 17:14:47] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:14:47] accepted: 0/56 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:15:09] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:15:09] accepted: 0/57 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 17:15:09] Stratum detected new block
+[2016-07-02 17:15:09] GPU #0: Tesla K20c, 502.44 khash/s
+[2016-07-02 17:15:39] Stratum detected new block
+[2016-07-02 17:15:39] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:15:49] GPU #0: Tesla K20c, 498.40 khash/s
+[2016-07-02 17:15:49] accepted: 0/58 (0.00%), 498.40 khash/s (booooo)
+[2016-07-02 17:15:51] GPU #0: Tesla K20c, 499.12 khash/s
+[2016-07-02 17:15:51] accepted: 0/59 (0.00%), 499.12 khash/s (booooo)
+[2016-07-02 17:16:09] Stratum detected new block
+[2016-07-02 17:16:09] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:16:35] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:16:35] accepted: 0/60 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 17:16:39] Stratum detected new block
+[2016-07-02 17:16:39] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:16:42] GPU #0: Tesla K20c, 498.35 khash/s
+[2016-07-02 17:16:42] accepted: 0/61 (0.00%), 498.35 khash/s (booooo)
+[2016-07-02 17:16:45] Stratum detected new block
+[2016-07-02 17:16:45] GPU #0: Tesla K20c, 499.01 khash/s
+[2016-07-02 17:16:51] GPU #0: Tesla K20c, 498.40 khash/s
+[2016-07-02 17:16:51] accepted: 0/62 (0.00%), 498.40 khash/s (booooo)
+[2016-07-02 17:17:05] Stratum detected new block
+[2016-07-02 17:17:05] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:17:09] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:17:09] accepted: 0/63 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:17:15] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:17:15] accepted: 0/64 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 17:17:24] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:17:25] accepted: 0/65 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:17:28] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:17:28] accepted: 0/66 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:17:29] Stratum detected new block
+[2016-07-02 17:17:29] GPU #0: Tesla K20c, 499.94 khash/s
+[2016-07-02 17:17:41] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:17:41] accepted: 0/67 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:17:58] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:17:58] accepted: 0/68 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:17:59] Stratum detected new block
+[2016-07-02 17:17:59] GPU #0: Tesla K20c, 501.07 khash/s
+[2016-07-02 17:18:17] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:18:17] accepted: 0/69 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:18:21] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:18:21] accepted: 0/70 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 17:18:29] Stratum detected new block
+[2016-07-02 17:18:29] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 17:18:36] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 17:18:36] accepted: 0/71 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 17:18:59] Stratum detected new block
+[2016-07-02 17:18:59] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:19:02] GPU #0: Tesla K20c, 498.39 khash/s
+[2016-07-02 17:19:02] accepted: 0/72 (0.00%), 498.39 khash/s (booooo)
+[2016-07-02 17:19:07] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:19:08] accepted: 0/73 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:19:28] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:19:28] accepted: 0/74 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:19:29] Stratum detected new block
+[2016-07-02 17:19:29] GPU #0: Tesla K20c, 499.09 khash/s
+[2016-07-02 17:19:37] GPU #0: Tesla K20c, 498.38 khash/s
+[2016-07-02 17:19:37] accepted: 0/75 (0.00%), 498.38 khash/s (booooo)
+[2016-07-02 17:19:40] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:19:40] accepted: 0/76 (0.00%), 498.68 khash/s (booooo)
+[2016-07-02 17:19:47] Stratum detected new block
+[2016-07-02 17:19:47] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 17:19:54] GPU #0: Tesla K20c, 498.35 khash/s
+[2016-07-02 17:19:54] accepted: 0/77 (0.00%), 498.35 khash/s (booooo)
+[2016-07-02 17:20:01] Stratum detected new block
+[2016-07-02 17:20:01] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 17:20:23] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:20:23] accepted: 0/78 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:20:31] Stratum detected new block
+[2016-07-02 17:20:31] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:20:47] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:20:47] accepted: 0/79 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:20:47] GPU #0: Tesla K20c, 497.42 khash/s
+[2016-07-02 17:20:47] accepted: 0/80 (0.00%), 497.42 khash/s (booooo)
+[2016-07-02 17:21:01] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:21:01] accepted: 0/81 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:21:01] Stratum detected new block
+[2016-07-02 17:21:01] GPU #0: Tesla K20c, 499.47 khash/s
+[2016-07-02 17:21:11] Stratum detected new block
+[2016-07-02 17:21:11] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 17:21:12] GPU #0: Tesla K20c, 498.17 khash/s
+[2016-07-02 17:21:12] accepted: 0/82 (0.00%), 498.17 khash/s (booooo)
+[2016-07-02 17:21:15] Stratum detected new block
+[2016-07-02 17:21:15] GPU #0: Tesla K20c, 498.82 khash/s
+[2016-07-02 17:21:33] Stratum detected new block
+[2016-07-02 17:21:33] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:21:41] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:21:41] accepted: 0/83 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:21:45] GPU #0: Tesla K20c, 498.39 khash/s
+[2016-07-02 17:21:45] accepted: 0/84 (0.00%), 498.39 khash/s (booooo)
+[2016-07-02 17:21:54] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:21:54] accepted: 0/85 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:22:00] GPU #0: Tesla K20c, 498.40 khash/s
+[2016-07-02 17:22:00] accepted: 0/86 (0.00%), 498.40 khash/s (booooo)
+[2016-07-02 17:22:03] Stratum detected new block
+[2016-07-02 17:22:03] GPU #0: Tesla K20c, 498.73 khash/s
+[2016-07-02 17:22:14] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:22:14] accepted: 0/87 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:22:18] GPU #0: Tesla K20c, 498.41 khash/s
+[2016-07-02 17:22:18] accepted: 0/88 (0.00%), 498.41 khash/s (booooo)
+[2016-07-02 17:22:33] Stratum detected new block
+[2016-07-02 17:22:33] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:22:47] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:22:47] accepted: 0/89 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:23:03] Stratum detected new block
+[2016-07-02 17:23:03] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:23:14] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:23:14] accepted: 0/90 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:23:18] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:23:18] accepted: 0/91 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:23:28] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:23:28] accepted: 0/92 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:23:33] Stratum detected new block
+[2016-07-02 17:23:33] GPU #0: Tesla K20c, 498.79 khash/s
+[2016-07-02 17:23:52] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:23:52] accepted: 0/93 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:24:03] Stratum detected new block
+[2016-07-02 17:24:03] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:24:12] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:24:12] accepted: 0/94 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:24:20] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:24:20] accepted: 0/95 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:24:34] Stratum detected new block
+[2016-07-02 17:24:34] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:24:55] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:24:55] accepted: 0/96 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:25:04] Stratum detected new block
+[2016-07-02 17:25:04] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:25:20] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:25:20] accepted: 0/97 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:25:27] Stratum detected new block
+[2016-07-02 17:25:27] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 17:25:53] Stratum detected new block
+[2016-07-02 17:25:53] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:26:00] Stratum detected new block
+[2016-07-02 17:26:00] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:26:08] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:26:08] accepted: 0/98 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:26:16] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:26:16] accepted: 0/99 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:26:30] Stratum detected new block
+[2016-07-02 17:26:30] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:27:00] Stratum detected new block
+[2016-07-02 17:27:00] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:27:30] Stratum detected new block
+[2016-07-02 17:27:30] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:28:00] Stratum detected new block
+[2016-07-02 17:28:00] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:28:11] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 17:28:11] accepted: 0/100 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 17:28:20] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:28:20] accepted: 0/101 (0.00%), 498.69 khash/s (booooo)
+[2016-07-02 17:28:21] GPU #0: Tesla K20c, 499.07 khash/s
+[2016-07-02 17:28:21] accepted: 0/102 (0.00%), 499.07 khash/s (booooo)
+[2016-07-02 17:28:22] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:28:22] accepted: 0/103 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:28:23] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:28:23] accepted: 0/104 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:28:30] Stratum detected new block
+[2016-07-02 17:28:30] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 17:28:30] GPU #0: Tesla K20c, 496.79 khash/s
+[2016-07-02 17:28:30] accepted: 0/105 (0.00%), 496.79 khash/s (booooo)
+[2016-07-02 17:28:54] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:28:54] accepted: 0/106 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 17:29:00] Stratum detected new block
+[2016-07-02 17:29:00] GPU #0: Tesla K20c, 498.88 khash/s
+[2016-07-02 17:29:30] Stratum detected new block
+[2016-07-02 17:29:30] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:29:37] Stratum detected new block
+[2016-07-02 17:29:37] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:30:05] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:30:05] accepted: 0/107 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:30:05] Stratum detected new block
+[2016-07-02 17:30:05] GPU #0: Tesla K20c, 500.03 khash/s
+[2016-07-02 17:30:20] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 17:30:20] accepted: 0/108 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 17:30:21] Stratum detected new block
+[2016-07-02 17:30:21] GPU #0: Tesla K20c, 499.20 khash/s
+[2016-07-02 17:30:22] GPU #0: Tesla K20c, 499.03 khash/s
+[2016-07-02 17:30:22] accepted: 0/109 (0.00%), 499.03 khash/s (booooo)
+[2016-07-02 17:30:42] Stratum detected new block
+[2016-07-02 17:30:42] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:30:50] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:30:50] accepted: 0/110 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:31:03] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:31:03] accepted: 0/111 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 17:31:10] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 17:31:10] accepted: 0/112 (0.00%), 498.71 khash/s (booooo)
+[2016-07-02 17:31:12] Stratum detected new block
+[2016-07-02 17:31:13] GPU #0: Tesla K20c, 498.78 khash/s
+[2016-07-02 17:31:43] Stratum detected new block
+[2016-07-02 17:31:43] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:32:04] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:32:04] accepted: 0/113 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:32:13] Stratum detected new block
+[2016-07-02 17:32:13] GPU #0: Tesla K20c, 498.79 khash/s
+[2016-07-02 17:32:25] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:32:25] accepted: 0/114 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:32:25] Stratum detected new block
+[2016-07-02 17:32:25] GPU #0: Tesla K20c, 500.75 khash/s
+[2016-07-02 17:32:43] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:32:43] accepted: 0/115 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:32:48] Stratum detected new block
+[2016-07-02 17:32:48] GPU #0: Tesla K20c, 498.83 khash/s
+[2016-07-02 17:32:58] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:32:58] accepted: 0/116 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:33:07] Stratum detected new block
+[2016-07-02 17:33:07] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 17:33:19] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:33:19] accepted: 0/117 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:33:30] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:33:30] accepted: 0/118 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:33:37] Stratum detected new block
+[2016-07-02 17:33:37] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:33:57] Stratum detected new block
+[2016-07-02 17:33:57] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:34:00] Stratum detected new block
+[2016-07-02 17:34:00] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 17:34:30] Stratum detected new block
+[2016-07-02 17:34:30] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:34:32] Stratum detected new block
+[2016-07-02 17:34:32] GPU #0: Tesla K20c, 498.44 khash/s
+[2016-07-02 17:34:36] GPU #0: Tesla K20c, 498.33 khash/s
+[2016-07-02 17:34:36] accepted: 0/119 (0.00%), 498.33 khash/s (booooo)
+[2016-07-02 17:35:02] Stratum detected new block
+[2016-07-02 17:35:02] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:35:16] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:35:16] accepted: 0/120 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:35:32] Stratum detected new block
+[2016-07-02 17:35:32] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:35:48] Stratum detected new block
+[2016-07-02 17:35:48] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:35:57] GPU #0: Tesla K20c, 498.44 khash/s
+[2016-07-02 17:35:57] accepted: 0/121 (0.00%), 498.44 khash/s (booooo)
+[2016-07-02 17:36:02] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 17:36:02] accepted: 0/122 (0.00%), 498.75 khash/s (booooo)
+[2016-07-02 17:36:18] Stratum detected new block
+[2016-07-02 17:36:18] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:36:48] Stratum detected new block
+[2016-07-02 17:36:48] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:36:57] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 17:36:57] accepted: 0/123 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 17:36:58] GPU #0: Tesla K20c, 498.96 khash/s
+[2016-07-02 17:36:58] accepted: 0/124 (0.00%), 498.96 khash/s (booooo)
+[2016-07-02 17:37:18] Stratum detected new block
+[2016-07-02 17:37:18] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:37:36] Stratum detected new block
+[2016-07-02 17:37:36] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:37:39] Stratum detected new block
+[2016-07-02 17:37:39] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:38:09] Stratum detected new block
+[2016-07-02 17:38:09] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:38:17] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:38:17] accepted: 0/125 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:38:21] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 17:38:21] accepted: 0/126 (0.00%), 498.75 khash/s (booooo)
+[2016-07-02 17:38:25] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 17:38:25] accepted: 0/127 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 17:38:25] GPU #0: Tesla K20c, 499.40 khash/s
+[2016-07-02 17:38:25] accepted: 0/128 (0.00%), 499.40 khash/s (booooo)
+[2016-07-02 17:38:37] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:38:37] accepted: 0/129 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:38:39] Stratum detected new block
+[2016-07-02 17:38:39] GPU #0: Tesla K20c, 499.13 khash/s
+[2016-07-02 17:39:09] Stratum detected new block
+[2016-07-02 17:39:09] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:39:11] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:39:11] accepted: 0/130 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:39:26] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:39:26] accepted: 0/131 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:39:39] Stratum detected new block
+[2016-07-02 17:39:39] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:39:59] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:39:59] accepted: 0/132 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:40:02] GPU #0: Tesla K20c, 498.91 khash/s
+[2016-07-02 17:40:03] accepted: 0/133 (0.00%), 498.91 khash/s (booooo)
+[2016-07-02 17:40:09] Stratum detected new block
+[2016-07-02 17:40:09] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 17:40:29] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:40:29] accepted: 0/134 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:40:36] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:40:36] accepted: 0/135 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:40:39] Stratum detected new block
+[2016-07-02 17:40:39] GPU #0: Tesla K20c, 498.91 khash/s
+[2016-07-02 17:40:46] Stratum detected new block
+[2016-07-02 17:40:46] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:40:58] Stratum detected new block
+[2016-07-02 17:40:58] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:41:00] GPU #0: Tesla K20c, 498.41 khash/s
+[2016-07-02 17:41:00] accepted: 0/136 (0.00%), 498.41 khash/s (booooo)
+[2016-07-02 17:41:28] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 17:41:28] accepted: 0/137 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 17:41:28] Stratum detected new block
+[2016-07-02 17:41:28] GPU #0: Tesla K20c, 501.19 khash/s
+[2016-07-02 17:41:32] Stratum detected new block
+[2016-07-02 17:41:32] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:41:55] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:41:55] accepted: 0/138 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:42:02] Stratum detected new block
+[2016-07-02 17:42:02] GPU #0: Tesla K20c, 498.76 khash/s
+[2016-07-02 17:42:33] Stratum detected new block
+[2016-07-02 17:42:33] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:42:50] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:42:50] accepted: 0/139 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:43:03] Stratum detected new block
+[2016-07-02 17:43:03] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:43:10] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:43:10] accepted: 0/140 (0.00%), 498.70 khash/s (booooo)
+[2016-07-02 17:43:18] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:43:18] accepted: 0/141 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:43:30] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 17:43:30] accepted: 0/142 (0.00%), 498.72 khash/s (booooo)
+[2016-07-02 17:43:33] Stratum detected new block
+[2016-07-02 17:43:33] GPU #0: Tesla K20c, 498.89 khash/s
+[2016-07-02 17:43:34] Stratum detected new block
+[2016-07-02 17:43:34] GPU #0: Tesla K20c, 499.13 khash/s
+[2016-07-02 17:43:44] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 17:43:44] accepted: 0/143 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 17:43:58] Stratum detected new block
+[2016-07-02 17:43:58] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:44:09] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:44:09] accepted: 0/144 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:44:15] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:44:15] accepted: 0/145 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:44:16] Stratum detected new block
+[2016-07-02 17:44:16] GPU #0: Tesla K20c, 499.46 khash/s
+[2016-07-02 17:44:17] GPU #0: Tesla K20c, 498.78 khash/s
+[2016-07-02 17:44:17] accepted: 0/146 (0.00%), 498.78 khash/s (booooo)
+[2016-07-02 17:44:46] Stratum detected new block
+[2016-07-02 17:44:46] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:44:47] GPU #0: Tesla K20c, 498.15 khash/s
+[2016-07-02 17:44:47] accepted: 0/147 (0.00%), 498.15 khash/s (booooo)
+[2016-07-02 17:44:55] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:44:55] accepted: 0/148 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 17:45:04] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:45:04] accepted: 0/149 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:45:16] Stratum detected new block
+[2016-07-02 17:45:16] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:45:46] Stratum detected new block
+[2016-07-02 17:45:46] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:45:55] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:45:55] accepted: 0/150 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:45:58] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:45:58] accepted: 0/151 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:46:16] Stratum detected new block
+[2016-07-02 17:46:16] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:46:19] GPU #0: Tesla K20c, 498.06 khash/s
+[2016-07-02 17:46:19] accepted: 0/152 (0.00%), 498.06 khash/s (booooo)
+[2016-07-02 17:46:19] Stratum detected new block
+[2016-07-02 17:46:19] GPU #0: Tesla K20c, 503.35 khash/s
+[2016-07-02 17:46:22] GPU #0: Tesla K20c, 498.18 khash/s
+[2016-07-02 17:46:22] accepted: 0/153 (0.00%), 498.18 khash/s (booooo)
+[2016-07-02 17:46:39] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:46:39] accepted: 0/154 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:46:49] Stratum detected new block
+[2016-07-02 17:46:49] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 17:47:19] Stratum detected new block
+[2016-07-02 17:47:19] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:47:36] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 17:47:36] accepted: 0/155 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 17:47:40] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:47:40] accepted: 0/156 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:47:49] Stratum detected new block
+[2016-07-02 17:47:49] GPU #0: Tesla K20c, 498.73 khash/s
+[2016-07-02 17:48:05] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:48:05] accepted: 0/157 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:48:09] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:48:10] accepted: 0/158 (0.00%), 498.68 khash/s (booooo)
+[2016-07-02 17:48:19] Stratum detected new block
+[2016-07-02 17:48:19] GPU #0: Tesla K20c, 498.78 khash/s
+[2016-07-02 17:48:49] Stratum detected new block
+[2016-07-02 17:48:49] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:49:06] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 17:49:06] accepted: 0/159 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 17:49:12] GPU #0: Tesla K20c, 498.73 khash/s
+[2016-07-02 17:49:12] accepted: 0/160 (0.00%), 498.73 khash/s (booooo)
+[2016-07-02 17:49:19] Stratum detected new block
+[2016-07-02 17:49:19] GPU #0: Tesla K20c, 498.80 khash/s
+[2016-07-02 17:49:23] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 17:49:23] accepted: 0/161 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 17:49:35] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 17:49:35] accepted: 0/162 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 17:49:49] Stratum detected new block
+[2016-07-02 17:49:49] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:50:04] Stratum detected new block
+[2016-07-02 17:50:04] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:50:06] GPU #0: Tesla K20c, 498.34 khash/s
+[2016-07-02 17:50:06] accepted: 0/163 (0.00%), 498.34 khash/s (booooo)
+[2016-07-02 17:50:12] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 17:50:12] accepted: 0/164 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 17:50:24] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:50:24] accepted: 0/165 (0.00%), 498.67 khash/s (booooo)
+[2016-07-02 17:50:29] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 17:50:29] accepted: 0/166 (0.00%), 498.72 khash/s (booooo)
+[2016-07-02 17:50:34] Stratum detected new block
+[2016-07-02 17:50:34] GPU #0: Tesla K20c, 498.84 khash/s
+[2016-07-02 17:50:41] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:50:41] accepted: 0/167 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:50:44] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 17:50:45] accepted: 0/168 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 17:50:52] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:50:52] accepted: 0/169 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 17:50:56] Stratum detected new block
+[2016-07-02 17:50:56] GPU #0: Tesla K20c, 498.82 khash/s
+[2016-07-02 17:50:58] GPU #0: Tesla K20c, 498.31 khash/s
+[2016-07-02 17:50:58] accepted: 0/170 (0.00%), 498.31 khash/s (booooo)
+[2016-07-02 17:51:01] GPU #0: Tesla K20c, 498.77 khash/s
+[2016-07-02 17:51:01] accepted: 0/171 (0.00%), 498.77 khash/s (booooo)
+[2016-07-02 17:51:25] Stratum detected new block
+[2016-07-02 17:51:25] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:51:26] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:51:26] accepted: 0/172 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 17:51:27] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:51:27] accepted: 0/173 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:51:54] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:51:54] accepted: 0/174 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:51:55] Stratum detected new block
+[2016-07-02 17:51:55] GPU #0: Tesla K20c, 499.63 khash/s
+[2016-07-02 17:51:56] GPU #0: Tesla K20c, 497.68 khash/s
+[2016-07-02 17:51:56] accepted: 0/175 (0.00%), 497.68 khash/s (booooo)
+[2016-07-02 17:52:01] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:52:01] accepted: 0/176 (0.00%), 498.67 khash/s (booooo)
+[2016-07-02 17:52:18] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 17:52:18] accepted: 0/177 (0.00%), 498.69 khash/s (booooo)
+[2016-07-02 17:52:21] GPU #0: Tesla K20c, 498.94 khash/s
+[2016-07-02 17:52:21] accepted: 0/178 (0.00%), 498.94 khash/s (booooo)
+[2016-07-02 17:52:25] Stratum detected new block
+[2016-07-02 17:52:25] GPU #0: Tesla K20c, 498.82 khash/s
+[2016-07-02 17:52:55] Stratum detected new block
+[2016-07-02 17:52:55] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:53:05] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:53:05] accepted: 0/179 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:53:06] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:53:06] accepted: 0/180 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:53:15] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:53:15] accepted: 0/181 (0.00%), 498.68 khash/s (booooo)
+[2016-07-02 17:53:25] Stratum detected new block
+[2016-07-02 17:53:25] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:53:33] Stratum detected new block
+[2016-07-02 17:53:33] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:53:46] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:53:46] accepted: 0/182 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:53:58] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:53:58] accepted: 0/183 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:54:03] Stratum detected new block
+[2016-07-02 17:54:03] GPU #0: Tesla K20c, 498.82 khash/s
+[2016-07-02 17:54:17] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 17:54:17] accepted: 0/184 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 17:54:32] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:54:32] accepted: 0/185 (0.00%), 498.70 khash/s (booooo)
+[2016-07-02 17:54:33] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:54:33] Stratum detected new block
+[2016-07-02 17:54:34] GPU #0: Tesla K20c, 524.83 khash/s
+[2016-07-02 17:54:34] accepted: 0/186 (0.00%), 524.83 khash/s (booooo)
+[2016-07-02 17:55:00] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:55:00] accepted: 0/187 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:55:04] Stratum detected new block
+[2016-07-02 17:55:04] GPU #0: Tesla K20c, 498.86 khash/s
+[2016-07-02 17:55:17] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 17:55:17] accepted: 0/188 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 17:55:19] GPU #0: Tesla K20c, 498.35 khash/s
+[2016-07-02 17:55:19] accepted: 0/189 (0.00%), 498.35 khash/s (booooo)
+[2016-07-02 17:55:23] GPU #0: Tesla K20c, 498.85 khash/s
+[2016-07-02 17:55:23] accepted: 0/190 (0.00%), 498.85 khash/s (booooo)
+[2016-07-02 17:55:29] Stratum detected new block
+[2016-07-02 17:55:29] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:55:36] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:55:36] accepted: 0/191 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 17:55:44] Stratum detected new block
+[2016-07-02 17:55:44] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:56:14] Stratum detected new block
+[2016-07-02 17:56:14] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:56:30] GPU #0: Tesla K20c, 498.45 khash/s
+[2016-07-02 17:56:30] accepted: 0/192 (0.00%), 498.45 khash/s (booooo)
+[2016-07-02 17:56:33] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 17:56:33] accepted: 0/193 (0.00%), 498.68 khash/s (booooo)
+[2016-07-02 17:56:44] Stratum detected new block
+[2016-07-02 17:56:44] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:56:55] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 17:56:55] accepted: 0/194 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 17:57:14] Stratum detected new block
+[2016-07-02 17:57:14] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 17:57:24] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:57:25] accepted: 0/195 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:57:44] Stratum detected new block
+[2016-07-02 17:57:44] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 17:57:46] GPU #0: Tesla K20c, 498.31 khash/s
+[2016-07-02 17:57:46] accepted: 0/196 (0.00%), 498.31 khash/s (booooo)
+[2016-07-02 17:58:04] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 17:58:04] accepted: 0/197 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 17:58:10] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 17:58:10] accepted: 0/198 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 17:58:14] Stratum detected new block
+[2016-07-02 17:58:14] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:58:15] Stratum detected new block
+[2016-07-02 17:58:15] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 17:58:27] Stratum detected new block
+[2016-07-02 17:58:27] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 17:58:43] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 17:58:43] accepted: 0/199 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 17:58:57] Stratum detected new block
+[2016-07-02 17:58:57] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 17:59:26] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 17:59:26] accepted: 0/200 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 17:59:27] Stratum detected new block
+[2016-07-02 17:59:27] GPU #0: Tesla K20c, 499.09 khash/s
+[2016-07-02 17:59:36] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 17:59:36] accepted: 0/201 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 17:59:43] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 17:59:44] accepted: 0/202 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 17:59:57] Stratum detected new block
+[2016-07-02 17:59:57] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 18:00:11] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 18:00:11] accepted: 0/203 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 18:00:27] Stratum detected new block
+[2016-07-02 18:00:27] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:00:57] Stratum detected new block
+[2016-07-02 18:00:58] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:01:00] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:01:00] accepted: 0/204 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:01:28] Stratum detected new block
+[2016-07-02 18:01:28] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:01:37] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:01:37] accepted: 0/205 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:01:49] Stratum detected new block
+[2016-07-02 18:01:49] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 18:02:04] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:02:04] accepted: 0/206 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:02:10] GPU #0: Tesla K20c, 498.44 khash/s
+[2016-07-02 18:02:10] accepted: 0/207 (0.00%), 498.44 khash/s (booooo)
+[2016-07-02 18:02:15] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:02:15] accepted: 0/208 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:02:16] GPU #0: Tesla K20c, 498.31 khash/s
+[2016-07-02 18:02:16] accepted: 0/209 (0.00%), 498.31 khash/s (booooo)
+[2016-07-02 18:02:19] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:02:19] accepted: 0/210 (0.00%), 498.71 khash/s (booooo)
+[2016-07-02 18:02:19] Stratum detected new block
+[2016-07-02 18:02:19] GPU #0: Tesla K20c, 501.83 khash/s
+[2016-07-02 18:02:24] GPU #0: Tesla K20c, 498.37 khash/s
+[2016-07-02 18:02:24] accepted: 0/211 (0.00%), 498.37 khash/s (booooo)
+[2016-07-02 18:02:33] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:02:33] accepted: 0/212 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 18:02:42] Stratum detected new block
+[2016-07-02 18:02:42] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:02:44] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:02:44] accepted: 0/213 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:02:57] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:02:57] accepted: 0/214 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:03:04] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:03:04] accepted: 0/215 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:03:11] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:03:11] accepted: 0/216 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:03:12] Stratum detected new block
+[2016-07-02 18:03:12] GPU #0: Tesla K20c, 499.37 khash/s
+[2016-07-02 18:03:14] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:03:14] accepted: 0/217 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 18:03:17] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:03:17] accepted: 0/218 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:03:24] Stratum detected new block
+[2016-07-02 18:03:24] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 18:03:47] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:03:47] accepted: 0/219 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:03:52] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:03:52] accepted: 0/220 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 18:03:54] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:03:54] accepted: 0/221 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:03:54] Stratum detected new block
+[2016-07-02 18:03:54] GPU #0: Tesla K20c, 503.63 khash/s
+[2016-07-02 18:04:08] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:04:08] accepted: 0/222 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:04:19] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:04:19] accepted: 0/223 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 18:04:24] Stratum detected new block
+[2016-07-02 18:04:24] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:04:31] GPU #0: Tesla K20c, 498.45 khash/s
+[2016-07-02 18:04:31] accepted: 0/224 (0.00%), 498.45 khash/s (booooo)
+[2016-07-02 18:04:54] Stratum detected new block
+[2016-07-02 18:04:54] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:04:55] GPU #0: Tesla K20c, 498.29 khash/s
+[2016-07-02 18:04:55] accepted: 0/225 (0.00%), 498.29 khash/s (booooo)
+[2016-07-02 18:05:05] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:05:05] accepted: 0/226 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:05:24] Stratum detected new block
+[2016-07-02 18:05:24] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:05:30] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:05:31] accepted: 0/227 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:05:32] GPU #0: Tesla K20c, 498.42 khash/s
+[2016-07-02 18:05:32] accepted: 0/228 (0.00%), 498.42 khash/s (booooo)
+[2016-07-02 18:05:54] Stratum detected new block
+[2016-07-02 18:05:54] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:05:57] Stratum detected new block
+[2016-07-02 18:05:57] GPU #0: Tesla K20c, 498.81 khash/s
+[2016-07-02 18:06:05] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:06:05] accepted: 0/229 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:06:27] Stratum detected new block
+[2016-07-02 18:06:27] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:06:33] GPU #0: Tesla K20c, 498.41 khash/s
+[2016-07-02 18:06:34] accepted: 0/230 (0.00%), 498.41 khash/s (booooo)
+[2016-07-02 18:06:52] Stratum detected new block
+[2016-07-02 18:06:52] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:07:16] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:07:16] accepted: 0/231 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 18:07:22] Stratum detected new block
+[2016-07-02 18:07:23] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 18:07:35] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:07:35] accepted: 0/232 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:07:37] Stratum detected new block
+[2016-07-02 18:07:37] GPU #0: Tesla K20c, 498.97 khash/s
+[2016-07-02 18:07:43] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:07:43] accepted: 0/233 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:08:07] Stratum detected new block
+[2016-07-02 18:08:07] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:08:15] GPU #0: Tesla K20c, 498.41 khash/s
+[2016-07-02 18:08:15] accepted: 0/234 (0.00%), 498.41 khash/s (booooo)
+[2016-07-02 18:08:37] Stratum detected new block
+[2016-07-02 18:08:37] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:08:41] GPU #0: Tesla K20c, 498.42 khash/s
+[2016-07-02 18:08:41] accepted: 0/235 (0.00%), 498.42 khash/s (booooo)
+[2016-07-02 18:09:08] Stratum detected new block
+[2016-07-02 18:09:08] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:09:38] Stratum detected new block
+[2016-07-02 18:09:40] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:10:08] Stratum detected new block
+[2016-07-02 18:10:08] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:10:26] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:10:26] accepted: 0/236 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 18:10:34] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:10:34] accepted: 0/237 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:10:38] Stratum detected new block
+[2016-07-02 18:10:38] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 18:10:42] GPU #0: Tesla K20c, 498.40 khash/s
+[2016-07-02 18:10:42] accepted: 0/238 (0.00%), 498.40 khash/s (booooo)
+[2016-07-02 18:11:05] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:11:05] accepted: 0/239 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 18:11:08] Stratum detected new block
+[2016-07-02 18:11:08] GPU #0: Tesla K20c, 498.88 khash/s
+[2016-07-02 18:11:38] Stratum detected new block
+[2016-07-02 18:11:38] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:11:53] Stratum detected new block
+[2016-07-02 18:11:53] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:11:53] GPU #0: Tesla K20c, 497.88 khash/s
+[2016-07-02 18:11:53] accepted: 0/240 (0.00%), 497.88 khash/s (booooo)
+[2016-07-02 18:12:03] Stratum detected new block
+[2016-07-02 18:12:03] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:12:17] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:12:17] accepted: 0/241 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 18:12:27] Stratum detected new block
+[2016-07-02 18:12:27] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:12:32] Stratum detected new block
+[2016-07-02 18:12:32] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:12:33] GPU #0: Tesla K20c, 497.73 khash/s
+[2016-07-02 18:12:33] accepted: 0/242 (0.00%), 497.73 khash/s (booooo)
+[2016-07-02 18:12:43] Stratum detected new block
+[2016-07-02 18:12:43] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:12:50] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:12:50] accepted: 0/243 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:12:51] GPU #0: Tesla K20c, 498.96 khash/s
+[2016-07-02 18:12:51] accepted: 0/244 (0.00%), 498.96 khash/s (booooo)
+[2016-07-02 18:12:53] GPU #0: Tesla K20c, 498.73 khash/s
+[2016-07-02 18:12:53] accepted: 0/245 (0.00%), 498.73 khash/s (booooo)
+[2016-07-02 18:12:57] Stratum detected new block
+[2016-07-02 18:12:57] GPU #0: Tesla K20c, 498.98 khash/s
+[2016-07-02 18:13:19] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:13:19] accepted: 0/246 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:13:27] Stratum detected new block
+[2016-07-02 18:13:27] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:13:39] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:13:39] accepted: 0/247 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:13:47] Stratum detected new block
+[2016-07-02 18:13:47] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:14:05] GPU #0: Tesla K20c, 498.47 khash/s
+[2016-07-02 18:14:05] accepted: 0/248 (0.00%), 498.47 khash/s (booooo)
+[2016-07-02 18:14:17] Stratum detected new block
+[2016-07-02 18:14:18] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:14:38] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:14:38] accepted: 0/249 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:14:48] Stratum detected new block
+[2016-07-02 18:14:48] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:15:14] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:15:14] accepted: 0/250 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:15:18] Stratum detected new block
+[2016-07-02 18:15:18] GPU #0: Tesla K20c, 498.85 khash/s
+[2016-07-02 18:15:37] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:15:37] accepted: 0/251 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:15:42] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:15:42] accepted: 0/252 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 18:15:44] GPU #0: Tesla K20c, 498.36 khash/s
+[2016-07-02 18:15:44] accepted: 0/253 (0.00%), 498.36 khash/s (booooo)
+[2016-07-02 18:15:46] Stratum detected new block
+[2016-07-02 18:15:46] GPU #0: Tesla K20c, 498.95 khash/s
+[2016-07-02 18:15:54] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:15:54] accepted: 0/254 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:16:00] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:16:00] accepted: 0/255 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:16:16] Stratum detected new block
+[2016-07-02 18:16:16] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 18:16:24] Stratum detected new block
+[2016-07-02 18:16:24] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:16:25] GPU #0: Tesla K20c, 497.95 khash/s
+[2016-07-02 18:16:26] accepted: 0/256 (0.00%), 497.95 khash/s (booooo)
+[2016-07-02 18:16:28] GPU #0: Tesla K20c, 498.44 khash/s
+[2016-07-02 18:16:28] accepted: 0/257 (0.00%), 498.44 khash/s (booooo)
+[2016-07-02 18:16:30] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:16:30] accepted: 0/258 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:16:34] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:16:34] accepted: 0/259 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:16:54] Stratum detected new block
+[2016-07-02 18:16:54] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:17:20] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:17:20] accepted: 0/260 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 18:17:21] GPU #0: Tesla K20c, 498.26 khash/s
+[2016-07-02 18:17:21] accepted: 0/261 (0.00%), 498.26 khash/s (booooo)
+[2016-07-02 18:17:22] GPU #0: Tesla K20c, 498.91 khash/s
+[2016-07-02 18:17:22] accepted: 0/262 (0.00%), 498.91 khash/s (booooo)
+[2016-07-02 18:17:24] Stratum detected new block
+[2016-07-02 18:17:24] GPU #0: Tesla K20c, 499.09 khash/s
+[2016-07-02 18:17:54] Stratum detected new block
+[2016-07-02 18:17:54] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:18:24] Stratum detected new block
+[2016-07-02 18:18:24] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:18:38] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:18:38] accepted: 0/263 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:18:39] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:18:39] accepted: 0/264 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:18:42] GPU #0: Tesla K20c, 498.73 khash/s
+[2016-07-02 18:18:42] accepted: 0/265 (0.00%), 498.73 khash/s (booooo)
+[2016-07-02 18:18:46] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:18:46] accepted: 0/266 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:18:54] Stratum detected new block
+[2016-07-02 18:18:55] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:19:04] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:19:04] accepted: 0/267 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:19:25] Stratum detected new block
+[2016-07-02 18:19:25] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:19:31] Stratum detected new block
+[2016-07-02 18:19:31] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 18:19:44] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:19:44] accepted: 0/268 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:20:01] Stratum detected new block
+[2016-07-02 18:20:01] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:20:22] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:20:22] accepted: 0/269 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:20:31] Stratum detected new block
+[2016-07-02 18:20:31] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:20:57] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:20:57] accepted: 0/270 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:21:01] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:21:01] accepted: 0/271 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:21:01] Stratum detected new block
+[2016-07-02 18:21:01] GPU #0: Tesla K20c, 502.65 khash/s
+[2016-07-02 18:21:03] Stratum detected new block
+[2016-07-02 18:21:03] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:21:06] Stratum detected new block
+[2016-07-02 18:21:06] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 18:21:14] Stratum detected new block
+[2016-07-02 18:21:14] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:21:35] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 18:21:35] accepted: 0/272 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 18:21:40] Stratum detected new block
+[2016-07-02 18:21:40] GPU #0: Tesla K20c, 499.06 khash/s
+[2016-07-02 18:21:46] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 18:21:46] accepted: 0/273 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 18:21:50] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:21:50] accepted: 0/274 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:22:10] Stratum detected new block
+[2016-07-02 18:22:10] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:22:11] Stratum detected new block
+[2016-07-02 18:22:11] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:22:28] Stratum detected new block
+[2016-07-02 18:22:28] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:22:38] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:22:38] accepted: 0/275 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:22:58] Stratum detected new block
+[2016-07-02 18:22:58] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:23:02] Stratum detected new block
+[2016-07-02 18:23:03] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:23:04] GPU #0: Tesla K20c, 498.10 khash/s
+[2016-07-02 18:23:04] accepted: 0/276 (0.00%), 498.10 khash/s (booooo)
+[2016-07-02 18:23:18] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:23:18] accepted: 0/277 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:23:23] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 18:23:23] accepted: 0/278 (0.00%), 498.70 khash/s (booooo)
+[2016-07-02 18:23:33] Stratum detected new block
+[2016-07-02 18:23:33] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 18:23:39] Stratum detected new block
+[2016-07-02 18:23:39] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:24:08] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:24:08] accepted: 0/279 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:24:09] Stratum detected new block
+[2016-07-02 18:24:09] GPU #0: Tesla K20c, 500.02 khash/s
+[2016-07-02 18:24:15] GPU #0: Tesla K20c, 498.43 khash/s
+[2016-07-02 18:24:15] accepted: 0/280 (0.00%), 498.43 khash/s (booooo)
+[2016-07-02 18:24:29] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:24:29] accepted: 0/281 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:24:31] GPU #0: Tesla K20c, 498.86 khash/s
+[2016-07-02 18:24:31] accepted: 0/282 (0.00%), 498.86 khash/s (booooo)
+[2016-07-02 18:24:37] Stratum detected new block
+[2016-07-02 18:24:37] GPU #0: Tesla K20c, 498.76 khash/s
+[2016-07-02 18:24:58] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:24:58] accepted: 0/283 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:25:01] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 18:25:01] accepted: 0/284 (0.00%), 498.67 khash/s (booooo)
+[2016-07-02 18:25:07] Stratum detected new block
+[2016-07-02 18:25:07] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 18:25:13] GPU #0: Tesla K20c, 498.43 khash/s
+[2016-07-02 18:25:13] accepted: 0/285 (0.00%), 498.43 khash/s (booooo)
+[2016-07-02 18:25:23] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:25:23] accepted: 0/286 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:25:25] Stratum detected new block
+[2016-07-02 18:25:25] GPU #0: Tesla K20c, 499.02 khash/s
+[2016-07-02 18:25:29] GPU #0: Tesla K20c, 498.42 khash/s
+[2016-07-02 18:25:29] accepted: 0/287 (0.00%), 498.42 khash/s (booooo)
+[2016-07-02 18:25:55] Stratum detected new block
+[2016-07-02 18:25:55] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:26:02] Stratum detected new block
+[2016-07-02 18:26:02] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:26:13] Stratum detected new block
+[2016-07-02 18:26:13] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:26:43] Stratum detected new block
+[2016-07-02 18:26:43] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:26:49] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:26:49] accepted: 0/288 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:27:13] Stratum detected new block
+[2016-07-02 18:27:13] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:27:20] Stratum detected new block
+[2016-07-02 18:27:20] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:27:23] GPU #0: Tesla K20c, 498.15 khash/s
+[2016-07-02 18:27:23] accepted: 0/289 (0.00%), 498.15 khash/s (booooo)
+[2016-07-02 18:27:35] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:27:35] accepted: 0/290 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:27:38] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 18:27:38] accepted: 0/291 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 18:27:38] Stratum detected new block
+[2016-07-02 18:27:38] GPU #0: Tesla K20c, 501.37 khash/s
+[2016-07-02 18:28:01] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:28:01] accepted: 0/292 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:28:01] GPU #0: Tesla K20c, 500.12 khash/s
+[2016-07-02 18:28:01] accepted: 0/293 (0.00%), 500.12 khash/s (booooo)
+[2016-07-02 18:28:03] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:28:03] accepted: 0/294 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:28:07] Stratum detected new block
+[2016-07-02 18:28:07] GPU #0: Tesla K20c, 498.86 khash/s
+[2016-07-02 18:28:16] Stratum detected new block
+[2016-07-02 18:28:16] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:28:19] GPU #0: Tesla K20c, 498.47 khash/s
+[2016-07-02 18:28:19] accepted: 0/295 (0.00%), 498.47 khash/s (booooo)
+[2016-07-02 18:28:46] Stratum detected new block
+[2016-07-02 18:28:46] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:28:51] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:28:51] accepted: 0/296 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:28:53] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:28:53] accepted: 0/297 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:28:59] Stratum detected new block
+[2016-07-02 18:28:59] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:29:29] Stratum detected new block
+[2016-07-02 18:29:29] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:29:38] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:29:38] accepted: 0/298 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:29:54] Stratum detected new block
+[2016-07-02 18:29:54] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 18:30:08] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:30:08] accepted: 0/299 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:30:24] Stratum detected new block
+[2016-07-02 18:30:24] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:30:26] GPU #0: Tesla K20c, 498.26 khash/s
+[2016-07-02 18:30:26] accepted: 0/300 (0.00%), 498.26 khash/s (booooo)
+[2016-07-02 18:30:35] Stratum detected new block
+[2016-07-02 18:30:35] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 18:30:38] GPU #0: Tesla K20c, 498.45 khash/s
+[2016-07-02 18:30:38] accepted: 0/301 (0.00%), 498.45 khash/s (booooo)
+[2016-07-02 18:30:43] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:30:43] accepted: 0/302 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:30:51] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:30:51] accepted: 0/303 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:31:05] Stratum detected new block
+[2016-07-02 18:31:05] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:31:17] Stratum detected new block
+[2016-07-02 18:31:17] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:31:42] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:31:42] accepted: 0/304 (0.00%), 498.65 khash/s (booooo)
+[2016-07-02 18:31:47] Stratum detected new block
+[2016-07-02 18:31:47] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:31:51] GPU #0: Tesla K20c, 498.40 khash/s
+[2016-07-02 18:31:51] accepted: 0/305 (0.00%), 498.40 khash/s (booooo)
+[2016-07-02 18:32:16] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:32:16] accepted: 0/306 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 18:32:17] Stratum detected new block
+[2016-07-02 18:32:17] GPU #0: Tesla K20c, 499.35 khash/s
+[2016-07-02 18:32:32] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 18:32:32] accepted: 0/307 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 18:32:39] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:32:39] accepted: 0/308 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:32:47] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:32:47] accepted: 0/309 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:32:47] Stratum detected new block
+[2016-07-02 18:32:47] GPU #0: Tesla K20c, 504.75 khash/s
+[2016-07-02 18:33:06] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:33:06] accepted: 0/310 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 18:33:17] Stratum detected new block
+[2016-07-02 18:33:17] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:33:20] GPU #0: Tesla K20c, 498.29 khash/s
+[2016-07-02 18:33:20] accepted: 0/311 (0.00%), 498.29 khash/s (booooo)
+[2016-07-02 18:33:21] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:33:21] accepted: 0/312 (0.00%), 498.71 khash/s (booooo)
+[2016-07-02 18:33:47] Stratum detected new block
+[2016-07-02 18:33:47] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:33:59] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:34:00] accepted: 0/313 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:34:05] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:34:05] accepted: 0/314 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:34:13] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:34:13] accepted: 0/315 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:34:17] Stratum detected new block
+[2016-07-02 18:34:17] GPU #0: Tesla K20c, 498.84 khash/s
+[2016-07-02 18:34:20] GPU #0: Tesla K20c, 498.42 khash/s
+[2016-07-02 18:34:20] accepted: 0/316 (0.00%), 498.42 khash/s (booooo)
+[2016-07-02 18:34:30] Stratum detected new block
+[2016-07-02 18:34:30] GPU #0: Tesla K20c, 498.73 khash/s
+[2016-07-02 18:34:42] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 18:34:42] accepted: 0/317 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 18:34:50] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 18:34:50] accepted: 0/318 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 18:34:58] Stratum detected new block
+[2016-07-02 18:34:58] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:35:07] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:35:07] accepted: 0/319 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:35:11] GPU #0: Tesla K20c, 498.77 khash/s
+[2016-07-02 18:35:11] accepted: 0/320 (0.00%), 498.77 khash/s (booooo)
+[2016-07-02 18:35:28] Stratum detected new block
+[2016-07-02 18:35:28] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:35:38] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:35:38] accepted: 0/321 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:35:58] Stratum detected new block
+[2016-07-02 18:35:58] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:36:28] Stratum detected new block
+[2016-07-02 18:36:28] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:36:38] GPU #0: Tesla K20c, 498.47 khash/s
+[2016-07-02 18:36:38] accepted: 0/322 (0.00%), 498.47 khash/s (booooo)
+[2016-07-02 18:36:53] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:36:53] accepted: 0/323 (0.00%), 498.65 khash/s (booooo)
+[2016-07-02 18:36:58] Stratum detected new block
+[2016-07-02 18:36:58] GPU #0: Tesla K20c, 498.81 khash/s
+[2016-07-02 18:37:28] Stratum detected new block
+[2016-07-02 18:37:28] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:37:35] GPU #0: Tesla K20c, 498.48 khash/s
+[2016-07-02 18:37:36] accepted: 0/324 (0.00%), 498.48 khash/s (booooo)
+[2016-07-02 18:37:53] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:37:53] accepted: 0/325 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 18:37:54] Stratum detected new block
+[2016-07-02 18:37:54] GPU #0: Tesla K20c, 499.28 khash/s
+[2016-07-02 18:38:24] Stratum detected new block
+[2016-07-02 18:38:24] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:38:27] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:38:27] accepted: 0/326 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:38:45] Stratum detected new block
+[2016-07-02 18:38:45] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:38:46] GPU #0: Tesla K20c, 497.54 khash/s
+[2016-07-02 18:38:46] accepted: 0/327 (0.00%), 497.54 khash/s (booooo)
+[2016-07-02 18:38:56] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:38:56] accepted: 0/328 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:39:15] Stratum detected new block
+[2016-07-02 18:39:15] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:39:18] GPU #0: Tesla K20c, 498.25 khash/s
+[2016-07-02 18:39:18] accepted: 0/329 (0.00%), 498.25 khash/s (booooo)
+[2016-07-02 18:39:33] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:39:33] accepted: 0/330 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 18:39:40] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 18:39:40] accepted: 0/331 (0.00%), 498.72 khash/s (booooo)
+[2016-07-02 18:39:45] Stratum detected new block
+[2016-07-02 18:39:45] GPU #0: Tesla K20c, 498.81 khash/s
+[2016-07-02 18:40:03] Stratum detected new block
+[2016-07-02 18:40:03] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:40:12] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:40:12] accepted: 0/332 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:40:20] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:40:20] accepted: 0/333 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 18:40:24] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:40:24] accepted: 0/334 (0.00%), 498.64 khash/s (booooo)
+[2016-07-02 18:40:26] Stratum detected new block
+[2016-07-02 18:40:26] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:40:27] GPU #0: Tesla K20c, 498.42 khash/s
+[2016-07-02 18:40:27] accepted: 0/335 (0.00%), 498.42 khash/s (booooo)
+[2016-07-02 18:40:55] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:40:55] accepted: 0/336 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 18:40:56] Stratum detected new block
+[2016-07-02 18:40:56] GPU #0: Tesla K20c, 498.93 khash/s
+[2016-07-02 18:41:26] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:41:26] accepted: 0/337 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:41:26] Stratum detected new block
+[2016-07-02 18:41:26] GPU #0: Tesla K20c, 500.16 khash/s
+[2016-07-02 18:41:42] Stratum detected new block
+[2016-07-02 18:41:42] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:42:05] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:42:05] accepted: 0/338 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 18:42:12] Stratum detected new block
+[2016-07-02 18:42:12] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:42:24] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:42:24] accepted: 0/339 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:42:36] GPU #0: Tesla K20c, 498.70 khash/s
+[2016-07-02 18:42:36] accepted: 0/340 (0.00%), 498.70 khash/s (booooo)
+[2016-07-02 18:42:36] GPU #0: Tesla K20c, 498.96 khash/s
+[2016-07-02 18:42:36] accepted: 0/341 (0.00%), 498.96 khash/s (booooo)
+[2016-07-02 18:42:42] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:42:42] accepted: 0/342 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:42:42] Stratum detected new block
+[2016-07-02 18:42:42] GPU #0: Tesla K20c, 499.97 khash/s
+[2016-07-02 18:42:51] Stratum detected new block
+[2016-07-02 18:42:51] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:43:21] Stratum detected new block
+[2016-07-02 18:43:21] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:43:51] Stratum detected new block
+[2016-07-02 18:43:51] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:43:59] GPU #0: Tesla K20c, 498.39 khash/s
+[2016-07-02 18:43:59] accepted: 0/343 (0.00%), 498.39 khash/s (booooo)
+[2016-07-02 18:44:21] Stratum detected new block
+[2016-07-02 18:44:22] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:44:52] Stratum detected new block
+[2016-07-02 18:44:52] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:45:01] Stratum detected new block
+[2016-07-02 18:45:01] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:45:30] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:45:31] accepted: 0/344 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:45:31] Stratum detected new block
+[2016-07-02 18:45:31] GPU #0: Tesla K20c, 501.91 khash/s
+[2016-07-02 18:45:41] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:45:42] accepted: 0/345 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 18:45:43] GPU #0: Tesla K20c, 498.23 khash/s
+[2016-07-02 18:45:43] accepted: 0/346 (0.00%), 498.23 khash/s (booooo)
+[2016-07-02 18:45:44] GPU #0: Tesla K20c, 499.58 khash/s
+[2016-07-02 18:45:44] accepted: 0/347 (0.00%), 499.58 khash/s (booooo)
+[2016-07-02 18:45:55] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:45:55] accepted: 0/348 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:46:01] Stratum detected new block
+[2016-07-02 18:46:01] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 18:46:03] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 18:46:03] accepted: 0/349 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 18:46:04] GPU #0: Tesla K20c, 499.87 khash/s
+[2016-07-02 18:46:04] accepted: 0/350 (0.00%), 499.87 khash/s (booooo)
+[2016-07-02 18:46:06] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:46:06] accepted: 0/351 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:46:14] Stratum detected new block
+[2016-07-02 18:46:14] GPU #0: Tesla K20c, 498.76 khash/s
+[2016-07-02 18:46:35] Stratum detected new block
+[2016-07-02 18:46:35] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:46:43] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:46:43] accepted: 0/352 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:46:48] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:46:49] accepted: 0/353 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:46:59] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:46:59] accepted: 0/354 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:47:05] Stratum detected new block
+[2016-07-02 18:47:05] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 18:47:20] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:47:20] accepted: 0/355 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:47:24] Stratum detected new block
+[2016-07-02 18:47:24] GPU #0: Tesla K20c, 498.74 khash/s
+[2016-07-02 18:47:29] GPU #0: Tesla K20c, 498.46 khash/s
+[2016-07-02 18:47:29] accepted: 0/356 (0.00%), 498.46 khash/s (booooo)
+[2016-07-02 18:47:31] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:47:31] accepted: 0/357 (0.00%), 498.71 khash/s (booooo)
+[2016-07-02 18:47:40] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:47:40] accepted: 0/358 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 18:47:46] Stratum detected new block
+[2016-07-02 18:47:46] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 18:47:46] GPU #0: Tesla K20c, 496.87 khash/s
+[2016-07-02 18:47:46] accepted: 0/359 (0.00%), 496.87 khash/s (booooo)
+[2016-07-02 18:47:50] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 18:47:50] accepted: 0/360 (0.00%), 498.75 khash/s (booooo)
+[2016-07-02 18:47:58] Stratum detected new block
+[2016-07-02 18:47:58] GPU #0: Tesla K20c, 498.71 khash/s
+[2016-07-02 18:48:28] Stratum detected new block
+[2016-07-02 18:48:28] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:48:31] GPU #0: Tesla K20c, 498.41 khash/s
+[2016-07-02 18:48:31] accepted: 0/361 (0.00%), 498.41 khash/s (booooo)
+[2016-07-02 18:48:39] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:48:39] accepted: 0/362 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:48:58] Stratum detected new block
+[2016-07-02 18:48:58] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:49:29] Stratum detected new block
+[2016-07-02 18:49:29] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:49:56] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:49:56] accepted: 0/363 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 18:49:59] Stratum detected new block
+[2016-07-02 18:49:59] GPU #0: Tesla K20c, 498.99 khash/s
+[2016-07-02 18:50:14] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:50:14] accepted: 0/364 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:50:29] Stratum detected new block
+[2016-07-02 18:50:29] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:50:32] GPU #0: Tesla K20c, 498.33 khash/s
+[2016-07-02 18:50:32] accepted: 0/365 (0.00%), 498.33 khash/s (booooo)
+[2016-07-02 18:50:34] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:50:34] accepted: 0/366 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 18:50:46] GPU #0: Tesla K20c, 498.47 khash/s
+[2016-07-02 18:50:46] accepted: 0/367 (0.00%), 498.47 khash/s (booooo)
+[2016-07-02 18:50:59] Stratum detected new block
+[2016-07-02 18:50:59] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:51:00] GPU #0: Tesla K20c, 498.35 khash/s
+[2016-07-02 18:51:00] accepted: 0/368 (0.00%), 498.35 khash/s (booooo)
+[2016-07-02 18:51:08] Stratum detected new block
+[2016-07-02 18:51:08] GPU #0: Tesla K20c, 498.68 khash/s
+[2016-07-02 18:51:13] GPU #0: Tesla K20c, 498.42 khash/s
+[2016-07-02 18:51:13] accepted: 0/369 (0.00%), 498.42 khash/s (booooo)
+[2016-07-02 18:51:22] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:51:22] accepted: 0/370 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:51:23] GPU #0: Tesla K20c, 498.27 khash/s
+[2016-07-02 18:51:23] accepted: 0/371 (0.00%), 498.27 khash/s (booooo)
+[2016-07-02 18:51:38] Stratum detected new block
+[2016-07-02 18:51:38] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 18:51:42] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:51:42] accepted: 0/372 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 18:51:45] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:51:45] accepted: 0/373 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:51:46] Stratum detected new block
+[2016-07-02 18:51:46] GPU #0: Tesla K20c, 499.94 khash/s
+[2016-07-02 18:51:49] GPU #0: Tesla K20c, 498.41 khash/s
+[2016-07-02 18:51:49] accepted: 0/374 (0.00%), 498.41 khash/s (booooo)
+[2016-07-02 18:52:02] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:52:02] accepted: 0/375 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:52:16] Stratum detected new block
+[2016-07-02 18:52:16] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:52:20] Stratum detected new block
+[2016-07-02 18:52:20] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:52:31] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:52:31] accepted: 0/376 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:52:51] Stratum detected new block
+[2016-07-02 18:52:51] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:52:51] GPU #0: Tesla K20c, 498.11 khash/s
+[2016-07-02 18:52:51] accepted: 0/377 (0.00%), 498.11 khash/s (booooo)
+[2016-07-02 18:52:59] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:52:59] accepted: 0/378 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:53:06] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 18:53:06] accepted: 0/379 (0.00%), 498.62 khash/s (booooo)
+[2016-07-02 18:53:21] Stratum detected new block
+[2016-07-02 18:53:21] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:53:37] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:53:37] accepted: 0/380 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 18:53:47] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:53:47] accepted: 0/381 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:53:51] Stratum detected new block
+[2016-07-02 18:53:51] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 18:54:07] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 18:54:07] accepted: 0/382 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 18:54:12] Stratum detected new block
+[2016-07-02 18:54:12] GPU #0: Tesla K20c, 498.74 khash/s
+[2016-07-02 18:54:17] GPU #0: Tesla K20c, 498.45 khash/s
+[2016-07-02 18:54:17] accepted: 0/383 (0.00%), 498.45 khash/s (booooo)
+[2016-07-02 18:54:32] Stratum detected new block
+[2016-07-02 18:54:32] GPU #0: Tesla K20c, 498.64 khash/s
+[2016-07-02 18:55:01] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:55:01] accepted: 0/384 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:55:02] Stratum detected new block
+[2016-07-02 18:55:02] GPU #0: Tesla K20c, 499.70 khash/s
+[2016-07-02 18:55:15] GPU #0: Tesla K20c, 498.52 khash/s
+[2016-07-02 18:55:15] accepted: 0/385 (0.00%), 498.52 khash/s (booooo)
+[2016-07-02 18:55:22] GPU #0: Tesla K20c, 498.54 khash/s
+[2016-07-02 18:55:22] accepted: 0/386 (0.00%), 498.54 khash/s (booooo)
+[2016-07-02 18:55:32] Stratum detected new block
+[2016-07-02 18:55:32] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:55:33] GPU #0: Tesla K20c, 498.27 khash/s
+[2016-07-02 18:55:33] accepted: 0/387 (0.00%), 498.27 khash/s (booooo)
+[2016-07-02 18:56:02] Stratum detected new block
+[2016-07-02 18:56:02] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:56:04] GPU #0: Tesla K20c, 498.03 khash/s
+[2016-07-02 18:56:04] accepted: 0/388 (0.00%), 498.03 khash/s (booooo)
+[2016-07-02 18:56:13] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:56:13] accepted: 0/389 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:56:31] Stratum detected new block
+[2016-07-02 18:56:31] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 18:56:32] GPU #0: Tesla K20c, 497.99 khash/s
+[2016-07-02 18:56:32] accepted: 0/390 (0.00%), 497.99 khash/s (booooo)
+[2016-07-02 18:56:40] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:56:40] accepted: 0/391 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:56:43] GPU #0: Tesla K20c, 498.74 khash/s
+[2016-07-02 18:56:43] accepted: 0/392 (0.00%), 498.74 khash/s (booooo)
+[2016-07-02 18:56:45] GPU #0: Tesla K20c, 498.66 khash/s
+[2016-07-02 18:56:45] accepted: 0/393 (0.00%), 498.66 khash/s (booooo)
+[2016-07-02 18:56:55] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 18:56:55] accepted: 0/394 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 18:57:01] Stratum detected new block
+[2016-07-02 18:57:01] GPU #0: Tesla K20c, 498.72 khash/s
+[2016-07-02 18:57:09] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:57:09] accepted: 0/395 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 18:57:31] Stratum detected new block
+[2016-07-02 18:57:31] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 18:57:36] Stratum detected new block
+[2016-07-02 18:57:36] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 18:57:40] GPU #0: Tesla K20c, 498.44 khash/s
+[2016-07-02 18:57:40] accepted: 0/396 (0.00%), 498.44 khash/s (booooo)
+[2016-07-02 18:57:49] Stratum detected new block
+[2016-07-02 18:57:49] GPU #0: Tesla K20c, 498.76 khash/s
+[2016-07-02 18:57:55] GPU #0: Tesla K20c, 498.35 khash/s
+[2016-07-02 18:57:55] accepted: 0/397 (0.00%), 498.35 khash/s (booooo)
+[2016-07-02 18:57:56] GPU #0: Tesla K20c, 498.45 khash/s
+[2016-07-02 18:57:56] accepted: 0/398 (0.00%), 498.45 khash/s (booooo)
+[2016-07-02 18:58:09] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:58:09] accepted: 0/399 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:58:12] Stratum detected new block
+[2016-07-02 18:58:12] GPU #0: Tesla K20c, 498.83 khash/s
+[2016-07-02 18:58:39] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 18:58:39] accepted: 0/400 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 18:58:42] Stratum detected new block
+[2016-07-02 18:58:42] GPU #0: Tesla K20c, 498.98 khash/s
+[2016-07-02 18:58:52] GPU #0: Tesla K20c, 498.50 khash/s
+[2016-07-02 18:58:52] accepted: 0/401 (0.00%), 498.50 khash/s (booooo)
+[2016-07-02 18:58:52] GPU #0: Tesla K20c, 499.14 khash/s
+[2016-07-02 18:58:53] accepted: 0/402 (0.00%), 499.14 khash/s (booooo)
+[2016-07-02 18:59:02] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 18:59:02] accepted: 0/403 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 18:59:08] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 18:59:08] accepted: 0/404 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 18:59:12] Stratum detected new block
+[2016-07-02 18:59:12] GPU #0: Tesla K20c, 498.74 khash/s
+[2016-07-02 18:59:28] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:59:28] accepted: 0/405 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:59:35] GPU #0: Tesla K20c, 498.49 khash/s
+[2016-07-02 18:59:35] accepted: 0/406 (0.00%), 498.49 khash/s (booooo)
+[2016-07-02 18:59:36] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:59:36] accepted: 0/407 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 18:59:39] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 18:59:39] accepted: 0/408 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 18:59:42] Stratum detected new block
+[2016-07-02 18:59:42] GPU #0: Tesla K20c, 498.77 khash/s
+[2016-07-02 18:59:44] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 18:59:44] accepted: 0/409 (0.00%), 498.58 khash/s (booooo)
+[2016-07-02 18:59:45] GPU #0: Tesla K20c, 499.29 khash/s
+[2016-07-02 18:59:45] accepted: 0/410 (0.00%), 499.29 khash/s (booooo)
+[2016-07-02 18:59:45] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 18:59:45] accepted: 0/411 (0.00%), 498.63 khash/s (booooo)
+[2016-07-02 18:59:55] Stratum detected new block
+[2016-07-02 18:59:55] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 18:59:57] GPU #0: Tesla K20c, 497.79 khash/s
+[2016-07-02 18:59:57] accepted: 0/412 (0.00%), 497.79 khash/s (booooo)
+[2016-07-02 19:00:23] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 19:00:23] accepted: 0/413 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 19:00:25] Stratum detected new block
+[2016-07-02 19:00:25] GPU #0: Tesla K20c, 499.09 khash/s
+[2016-07-02 19:00:36] Stratum detected new block
+[2016-07-02 19:00:36] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 19:00:56] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 19:00:56] accepted: 0/414 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 19:01:06] Stratum detected new block
+[2016-07-02 19:01:06] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 19:01:23] Stratum detected new block
+[2016-07-02 19:01:23] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 19:01:51] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 19:01:51] accepted: 0/415 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 19:01:53] GPU #0: Tesla K20c, 498.69 khash/s
+[2016-07-02 19:01:53] accepted: 0/416 (0.00%), 498.69 khash/s (booooo)
+[2016-07-02 19:01:53] Stratum detected new block
+[2016-07-02 19:01:53] GPU #0: Tesla K20c, 499.94 khash/s
+[2016-07-02 19:02:18] GPU #0: Tesla K20c, 498.59 khash/s
+[2016-07-02 19:02:18] accepted: 0/417 (0.00%), 498.59 khash/s (booooo)
+[2016-07-02 19:02:23] Stratum detected new block
+[2016-07-02 19:02:23] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 19:02:38] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 19:02:38] accepted: 0/418 (0.00%), 498.53 khash/s (booooo)
+[2016-07-02 19:02:48] Stratum detected new block
+[2016-07-02 19:02:48] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 19:03:15] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 19:03:15] accepted: 0/419 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 19:03:18] Stratum detected new block
+[2016-07-02 19:03:18] GPU #0: Tesla K20c, 499.08 khash/s
+[2016-07-02 19:03:28] GPU #0: Tesla K20c, 498.57 khash/s
+[2016-07-02 19:03:28] accepted: 0/420 (0.00%), 498.57 khash/s (booooo)
+[2016-07-02 19:03:48] Stratum detected new block
+[2016-07-02 19:03:48] GPU #0: Tesla K20c, 498.67 khash/s
+[2016-07-02 19:04:18] Stratum detected new block
+[2016-07-02 19:04:18] GPU #0: Tesla K20c, 498.62 khash/s
+[2016-07-02 19:04:33] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 19:04:33] accepted: 0/421 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 19:04:36] GPU #0: Tesla K20c, 498.51 khash/s
+[2016-07-02 19:04:36] accepted: 0/422 (0.00%), 498.51 khash/s (booooo)
+[2016-07-02 19:04:48] Stratum detected new block
+[2016-07-02 19:04:48] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 19:04:50] GPU #0: Tesla K20c, 498.22 khash/s
+[2016-07-02 19:04:50] accepted: 0/423 (0.00%), 498.22 khash/s (booooo)
+[2016-07-02 19:05:15] GPU #0: Tesla K20c, 498.61 khash/s
+[2016-07-02 19:05:15] accepted: 0/424 (0.00%), 498.61 khash/s (booooo)
+[2016-07-02 19:05:18] Stratum detected new block
+[2016-07-02 19:05:18] GPU #0: Tesla K20c, 498.81 khash/s
+[2016-07-02 19:05:20] GPU #0: Tesla K20c, 498.39 khash/s
+[2016-07-02 19:05:20] accepted: 0/425 (0.00%), 498.39 khash/s (booooo)
+[2016-07-02 19:05:21] GPU #0: Tesla K20c, 498.99 khash/s
+[2016-07-02 19:05:21] accepted: 0/426 (0.00%), 498.99 khash/s (booooo)
+[2016-07-02 19:05:22] GPU #0: Tesla K20c, 498.88 khash/s
+[2016-07-02 19:05:22] accepted: 0/427 (0.00%), 498.88 khash/s (booooo)
+[2016-07-02 19:05:27] Stratum detected new block
+[2016-07-02 19:05:27] GPU #0: Tesla K20c, 498.63 khash/s
+[2016-07-02 19:05:29] GPU #0: Tesla K20c, 498.08 khash/s
+[2016-07-02 19:05:29] accepted: 0/428 (0.00%), 498.08 khash/s (booooo)
+[2016-07-02 19:05:38] Stratum detected new block
+[2016-07-02 19:05:38] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 19:05:58] Stratum detected new block
+[2016-07-02 19:05:58] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 19:06:26] Stratum detected new block
+[2016-07-02 19:06:26] GPU #0: Tesla K20c, 498.53 khash/s
+[2016-07-02 19:06:37] GPU #0: Tesla K20c, 498.55 khash/s
+[2016-07-02 19:06:37] accepted: 0/429 (0.00%), 498.55 khash/s (booooo)
+[2016-07-02 19:06:56] Stratum detected new block
+[2016-07-02 19:06:56] GPU #0: Tesla K20c, 498.65 khash/s
+[2016-07-02 19:07:05] GPU #0: Tesla K20c, 498.56 khash/s
+[2016-07-02 19:07:05] accepted: 0/430 (0.00%), 498.56 khash/s (booooo)
+[2016-07-02 19:07:26] Stratum detected new block
+[2016-07-02 19:07:27] GPU #0: Tesla K20c, 498.58 khash/s
+[2016-07-02 19:07:57] Stratum detected new block
+[2016-07-02 19:07:57] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 19:08:12] GPU #0: Tesla K20c, 498.60 khash/s
+[2016-07-02 19:08:12] accepted: 0/431 (0.00%), 498.60 khash/s (booooo)
+[2016-07-02 19:08:23] Stratum detected new block
+[2016-07-02 19:08:23] GPU #0: Tesla K20c, 498.75 khash/s
+[2016-07-02 19:08:26] GPU #0: Tesla K20c, 498.29 khash/s
+[2016-07-02 19:08:26] accepted: 0/432 (0.00%), 498.29 khash/s (booooo)

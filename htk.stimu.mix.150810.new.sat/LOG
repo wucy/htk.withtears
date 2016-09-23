@@ -1,0 +1,1005 @@
+In file included from HDecode.c:37:0:
+../HTKLib.64bit/cfgs.h:35:1: error: expected identifier or ‘(’ before ‘/’ token
+ //#define CUDA
+ ^
+../HTKLib.64bit/cfgs.h:35:3: error: stray ‘#’ in program
+ //#define CUDA
+   ^
+In file included from /usr/include/stdio.h:74:0,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/libio.h:306:3: error: unknown type name ‘size_t’
+   size_t __pad5;
+   ^
+/usr/include/libio.h:310:67: error: ‘size_t’ undeclared here (not in a function)
+   char _unused2[15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)];
+                                                                   ^
+/usr/include/libio.h:338:62: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ typedef __ssize_t __io_read_fn (void *__cookie, char *__buf, size_t __nbytes);
+                                                              ^
+/usr/include/libio.h:347:6: error: expected declaration specifiers or ‘...’ before ‘size_t’
+      size_t __n);
+      ^
+/usr/include/libio.h:469:19: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘_IO_sgetn’
+ extern _IO_size_t _IO_sgetn (_IO_FILE *, void *, _IO_size_t);
+                   ^
+In file included from ../HTKLib.64bit/HShell.h:40:0,
+                 from HDecode.c:44:
+/usr/include/stdio.h:337:20: error: expected declaration specifiers or ‘...’ before ‘size_t’
+       int __modes, size_t __n) __THROW;
+                    ^
+/usr/include/stdio.h:709:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘fread’
+ extern size_t fread (void *__restrict __ptr, size_t __size,
+               ^
+/usr/include/stdio.h:715:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘fwrite’
+ extern size_t fwrite (const void *__restrict __ptr, size_t __size,
+               ^
+/usr/include/stdio.h:737:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘fread_unlocked’
+ extern size_t fread_unlocked (void *__restrict __ptr, size_t __size,
+               ^
+/usr/include/stdio.h:739:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘fwrite_unlocked’
+ extern size_t fwrite_unlocked (const void *__restrict __ptr, size_t __size,
+               ^
+In file included from /usr/include/stdio.h:937:0,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:23:61: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __sprintf_chk (char *__restrict __s, int __flag, size_t __slen,
+                                                             ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:25:62: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __vsprintf_chk (char *__restrict __s, int __flag, size_t __slen,
+                                                              ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:227:39: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__gets_chk (char *__str, size_t) __wur;
+                                       ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:241:49: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__fgets_chk (char *__restrict __s, size_t __size, int __n,
+                                                 ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:246:14: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__REDIRECT (__fgets_chk_warn,
+              ^
+In file included from /usr/include/stdio.h:937:0,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h: In function ‘fgets’:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:260:20: error: expected ‘)’ before ‘__n’
+       if ((size_t) __n > __bos (__s))
+                    ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h: At top level:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:266:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__fread_chk’
+ extern size_t __fread_chk (void *__restrict __ptr, size_t __ptrlen,
+               ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:269:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__fread_alias’
+ extern size_t __REDIRECT (__fread_alias,
+               ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:273:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__fread_chk_warn’
+ extern size_t __REDIRECT (__fread_chk_warn,
+               ^
+In file included from /usr/include/stdio.h:937:0,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:282:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘fread’
+ fread (void *__restrict __ptr, size_t __size, size_t __n,
+ ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:327:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__fread_unlocked_chk’
+ extern size_t __fread_unlocked_chk (void *__restrict __ptr, size_t __ptrlen,
+               ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:330:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__fread_unlocked_alias’
+ extern size_t __REDIRECT (__fread_unlocked_alias,
+               ^
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:334:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__fread_unlocked_chk_warn’
+ extern size_t __REDIRECT (__fread_unlocked_chk_warn,
+               ^
+In file included from /usr/include/stdio.h:937:0,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:343:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘fread_unlocked’
+ fread_unlocked (void *__restrict __ptr, size_t __size, size_t __n,
+ ^
+In file included from ../HTKLib.64bit/HShell.h:41:0,
+                 from HDecode.c:44:
+/usr/include/stdlib.h:139:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__ctype_get_mb_cur_max’
+ extern size_t __ctype_get_mb_cur_max (void) __THROW __wur;
+               ^
+In file included from ../HTKLib.64bit/HShell.h:41:0,
+                 from HDecode.c:44:
+/usr/include/stdlib.h:331:4: error: expected declaration specifiers or ‘...’ before ‘size_t’
+    size_t __statelen) __THROW __nonnull ((2));
+    ^
+/usr/include/stdlib.h:361:4: error: expected declaration specifiers or ‘...’ before ‘size_t’
+    size_t __statelen,
+    ^
+/usr/include/stdlib.h:466:22: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *malloc (size_t __size) __THROW __attribute_malloc__ __wur;
+                      ^
+/usr/include/stdlib.h:468:22: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *calloc (size_t __nmemb, size_t __size)
+                      ^
+/usr/include/stdlib.h:468:38: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *calloc (size_t __nmemb, size_t __size)
+                                      ^
+/usr/include/stdlib.h:480:36: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *realloc (void *__ptr, size_t __size)
+                                    ^
+In file included from /usr/include/stdlib.h:492:0,
+                 from ../HTKLib.64bit/HShell.h:41,
+                 from HDecode.c:44:
+/usr/include/alloca.h:32:22: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *alloca (size_t __size) __THROW;
+                      ^
+In file included from ../HTKLib.64bit/HShell.h:41:0,
+                 from HDecode.c:44:
+/usr/include/stdlib.h:756:9: error: expected declaration specifiers or ‘...’ before ‘size_t’
+         size_t __nmemb, size_t __size, __compar_fn_t __compar)
+         ^
+/usr/include/stdlib.h:756:25: error: expected declaration specifiers or ‘...’ before ‘size_t’
+         size_t __nmemb, size_t __size, __compar_fn_t __compar)
+                         ^
+In file included from /usr/include/stdlib.h:760:0,
+                 from ../HTKLib.64bit/HShell.h:41,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:20:49: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ bsearch (const void *__key, const void *__base, size_t __nmemb, size_t __size,
+                                                 ^
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:20:65: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ bsearch (const void *__key, const void *__base, size_t __nmemb, size_t __size,
+                                                                 ^
+In file included from ../HTKLib.64bit/HShell.h:41:0,
+                 from HDecode.c:44:
+/usr/include/stdlib.h:765:34: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void qsort (void *__base, size_t __nmemb, size_t __size,
+                                  ^
+/usr/include/stdlib.h:765:50: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void qsort (void *__base, size_t __nmemb, size_t __size,
+                                                  ^
+/usr/include/stdlib.h:844:6: error: expected declaration specifiers or ‘...’ before ‘size_t’
+      size_t __len) __THROW __nonnull ((3, 4, 5));
+      ^
+/usr/include/stdlib.h:847:6: error: expected declaration specifiers or ‘...’ before ‘size_t’
+      size_t __len) __THROW __nonnull ((3, 4, 5));
+      ^
+/usr/include/stdlib.h:851:31: error: expected declaration specifiers or ‘...’ before ‘size_t’
+       char *__restrict __buf, size_t __len)
+                               ^
+/usr/include/stdlib.h:855:31: error: expected declaration specifiers or ‘...’ before ‘size_t’
+       char *__restrict __buf, size_t __len)
+                               ^
+/usr/include/stdlib.h:863:36: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int mblen (const char *__s, size_t __n) __THROW;
+                                    ^
+/usr/include/stdlib.h:867:34: error: expected declaration specifiers or ‘...’ before ‘size_t’
+      const char *__restrict __s, size_t __n) __THROW;
+                                  ^
+/usr/include/stdlib.h:874:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘mbstowcs’
+ extern size_t mbstowcs (wchar_t *__restrict  __pwcs,
+               ^
+/usr/include/stdlib.h:877:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘wcstombs’
+ extern size_t wcstombs (char *__restrict __s,
+               ^
+In file included from /usr/include/stdlib.h:959:0,
+                 from ../HTKLib.64bit/HShell.h:41,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:25:9: error: expected declaration specifiers or ‘...’ before ‘size_t’
+         size_t __resolvedlen) __THROW __wur;
+         ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:29:14: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__REDIRECT_NTH (__realpath_chk_warn,
+              ^
+In file included from /usr/include/stdlib.h:959:0,
+                 from ../HTKLib.64bit/HShell.h:41,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:52:52: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __ptsname_r_chk (int __fd, char *__buf, size_t __buflen,
+                                                    ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:53:8: error: expected declaration specifiers or ‘...’ before ‘size_t’
+        size_t __nreal) __THROW __nonnull ((2));
+        ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:54:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__ptsname_r_alias, (int __fd, char *__buf,
+            ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:57:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__ptsname_r_chk_warn,
+            ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:57:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__ptsname_r_chk_warn,
+            ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:64:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (ptsname_r (int __fd, char *__buf, size_t __buflen))
+ ^
+In file included from /usr/include/stdlib.h:959:0,
+                 from ../HTKLib.64bit/HShell.h:41,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:77:54: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __wctomb_chk (char *__s, wchar_t __wchar, size_t __buflen)
+                                                      ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:98:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__mbstowcs_chk’
+ extern size_t __mbstowcs_chk (wchar_t *__restrict __dst,
+               ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:101:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__mbstowcs_alias’
+ extern size_t __REDIRECT_NTH (__mbstowcs_alias,
+               ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:105:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__mbstowcs_chk_warn’
+ extern size_t __REDIRECT_NTH (__mbstowcs_chk_warn,
+               ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:113:1: error: expected ‘,’ or ‘;’ before ‘mbstowcs’
+ __NTH (mbstowcs (wchar_t *__restrict __dst, const char *__restrict __src,
+ ^
+In file included from /usr/include/stdlib.h:959:0,
+                 from ../HTKLib.64bit/HShell.h:41,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:130:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__wcstombs_chk’
+ extern size_t __wcstombs_chk (char *__restrict __dst,
+               ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:133:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__wcstombs_alias’
+ extern size_t __REDIRECT_NTH (__wcstombs_alias,
+               ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:137:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__wcstombs_chk_warn’
+ extern size_t __REDIRECT_NTH (__wcstombs_chk_warn,
+               ^
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:144:1: error: expected ‘,’ or ‘;’ before ‘wcstombs’
+ __NTH (wcstombs (char *__restrict __dst, const wchar_t *__restrict __src,
+ ^
+In file included from ../HTKLib.64bit/HShell.h:43:0,
+                 from HDecode.c:44:
+/usr/include/string.h:47:8: error: expected declaration specifiers or ‘...’ before ‘size_t’
+        size_t __n) __THROW __nonnull ((1, 2));
+        ^
+/usr/include/string.h:50:56: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *memmove (void *__dest, const void *__src, size_t __n)
+                                                        ^
+/usr/include/string.h:59:18: error: expected declaration specifiers or ‘...’ before ‘size_t’
+         int __c, size_t __n)
+                  ^
+/usr/include/string.h:66:42: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *memset (void *__s, int __c, size_t __n) __THROW __nonnull ((1));
+                                          ^
+/usr/include/string.h:69:56: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int memcmp (const void *__s1, const void *__s2, size_t __n)
+                                                        ^
+/usr/include/string.h:96:48: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void *memchr (const void *__s, int __c, size_t __n)
+                                                ^
+/usr/include/string.h:133:39: error: expected declaration specifiers or ‘...’ before ‘size_t’
+         const char *__restrict __src, size_t __n)
+                                       ^
+/usr/include/string.h:141:9: error: expected declaration specifiers or ‘...’ before ‘size_t’
+         size_t __n) __THROW __nonnull ((1, 2));
+         ^
+/usr/include/string.h:147:57: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int strncmp (const char *__s1, const char *__s2, size_t __n)
+                                                         ^
+/usr/include/string.h:154:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘strxfrm’
+ extern size_t strxfrm (char *__restrict __dest,
+               ^
+/usr/include/string.h:285:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘strcspn’
+ extern size_t strcspn (const char *__s, const char *__reject)
+               ^
+/usr/include/string.h:289:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘strspn’
+ extern size_t strspn (const char *__s, const char *__accept)
+               ^
+/usr/include/string.h:399:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘strlen’
+ extern size_t strlen (const char *__s)
+               ^
+/usr/include/string.h:438:53: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *strerror_r (int __errnum, char *__buf, size_t __buflen)
+                                                     ^
+/usr/include/string.h:451:33: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern void __bzero (void *__s, size_t __n) __THROW __nonnull ((1));
+                                 ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/string2.h:945:24: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strcspn_c1’
+ __STRING_INLINE size_t __strcspn_c1 (const char *__s, int __reject);
+                        ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:947:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strcspn_c1’
+ __strcspn_c1 (const char *__s, int __reject)
+ ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:955:24: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strcspn_c2’
+ __STRING_INLINE size_t __strcspn_c2 (const char *__s, int __reject1,
+                        ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:958:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strcspn_c2’
+ __strcspn_c2 (const char *__s, int __reject1, int __reject2)
+ ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:967:24: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strcspn_c3’
+ __STRING_INLINE size_t __strcspn_c3 (const char *__s, int __reject1,
+                        ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:970:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strcspn_c3’
+ __strcspn_c3 (const char *__s, int __reject1, int __reject2,
+ ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:1021:24: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strspn_c1’
+ __STRING_INLINE size_t __strspn_c1 (const char *__s, int __accept);
+                        ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:1023:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strspn_c1’
+ __strspn_c1 (const char *__s, int __accept)
+ ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:1032:24: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strspn_c2’
+ __STRING_INLINE size_t __strspn_c2 (const char *__s, int __accept1,
+                        ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:1035:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strspn_c2’
+ __strspn_c2 (const char *__s, int __accept1, int __accept2)
+ ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:1044:24: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strspn_c3’
+ __STRING_INLINE size_t __strspn_c3 (const char *__s, int __accept1,
+                        ^
+/usr/include/x86_64-linux-gnu/bits/string2.h:1047:1: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__strspn_c3’
+ __strspn_c3 (const char *__s, int __accept1, int __accept2, int __accept3)
+ ^
+/usr/include/x86_64-linux-gnu/bits/string2.h: In function ‘__strpbrk_c2’:
+/usr/include/x86_64-linux-gnu/bits/string2.h:1105:50: error: expected ‘;’ before ‘__s’
+   return *__s == '\0' ? NULL : (char *) (size_t) __s;
+                                                  ^
+/usr/include/x86_64-linux-gnu/bits/string2.h: In function ‘__strpbrk_c3’:
+/usr/include/x86_64-linux-gnu/bits/string2.h:1117:50: error: expected ‘;’ before ‘__s’
+   return *__s == '\0' ? NULL : (char *) (size_t) __s;
+                                                  ^
+/usr/include/x86_64-linux-gnu/bits/string2.h: At top level:
+/usr/include/x86_64-linux-gnu/bits/string2.h:1297:47: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__strndup (const char *__string, size_t __n)
+                                               ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/string3.h:48:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (memcpy (void *__restrict __dest, const void *__restrict __src,
+ ^
+/usr/include/x86_64-linux-gnu/bits/string3.h:55:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (memmove (void *__dest, const void *__src, size_t __len))
+ ^
+/usr/include/x86_64-linux-gnu/bits/string3.h:76:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (memset (void *__dest, int __ch, size_t __len))
+ ^
+/usr/include/x86_64-linux-gnu/bits/string3.h:117:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (strncpy (char *__restrict __dest, const char *__restrict __src,
+ ^
+In file included from /usr/include/string.h:640:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/string3.h:124:62: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__stpncpy_chk (char *__dest, const char *__src, size_t __n,
+                                                              ^
+/usr/include/x86_64-linux-gnu/bits/string3.h:125:8: error: expected declaration specifiers or ‘...’ before ‘size_t’
+        size_t __destlen) __THROW;
+        ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/string3.h:126:14: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__REDIRECT_NTH (__stpncpy_alias, (char *__dest, const char *__src,
+              ^
+/usr/include/x86_64-linux-gnu/bits/string3.h:130:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (stpncpy (char *__dest, const char *__src, size_t __n))
+ ^
+/usr/include/x86_64-linux-gnu/bits/string3.h:147:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (strncat (char *__restrict __dest, const char *__restrict __src,
+ ^
+In file included from ../HTKLib.64bit/HShell.h:70:0,
+                 from HDecode.c:44:
+/usr/include/unistd.h:360:45: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern ssize_t read (int __fd, void *__buf, size_t __nbytes) __wur;
+                                             ^
+/usr/include/unistd.h:366:52: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern ssize_t write (int __fd, const void *__buf, size_t __n) __wur;
+                                                    ^
+/usr/include/unistd.h:511:35: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *getcwd (char *__buf, size_t __size) __THROW __wur;
+                                   ^
+In file included from ../HTKLib.64bit/HShell.h:70:0,
+                 from HDecode.c:44:
+/usr/include/unistd.h:774:46: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int ttyname_r (int __fd, char *__buf, size_t __buflen)
+                                              ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:23:51: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern ssize_t __read_chk (int __fd, void *__buf, size_t __nbytes,
+                                                   ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:24:7: error: expected declaration specifiers or ‘...’ before ‘size_t’
+       size_t __buflen) __wur;
+       ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:25:16: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern ssize_t __REDIRECT (__read_alias, (int __fd, void *__buf,
+                ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:27:16: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern ssize_t __REDIRECT (__read_chk_warn,
+                ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:27:16: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern ssize_t __REDIRECT (__read_chk_warn,
+                ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:34:30: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ read (int __fd, void *__buf, size_t __nbytes)
+                              ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:189:41: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__getcwd_chk (char *__buf, size_t __size, size_t __buflen)
+                                         ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:189:56: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__getcwd_chk (char *__buf, size_t __size, size_t __buflen)
+                                                        ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:191:14: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__REDIRECT_NTH (__getcwd_alias,
+              ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:193:14: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__REDIRECT_NTH (__getcwd_chk_warn,
+              ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:193:14: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern char *__REDIRECT_NTH (__getcwd_chk_warn,
+              ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:200:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (getcwd (char *__buf, size_t __size))
+ ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:229:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__confstr_chk’
+ extern size_t __confstr_chk (int __name, char *__buf, size_t __len,
+               ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:231:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__confstr_alias’
+ extern size_t __REDIRECT_NTH (__confstr_alias, (int __name, char *__buf,
+               ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:233:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘__confstr_chk_warn’
+ extern size_t __REDIRECT_NTH (__confstr_chk_warn,
+               ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:240:1: error: expected ‘,’ or ‘;’ before ‘confstr’
+ __NTH (confstr (int __name, char *__buf, size_t __len))
+ ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:254:59: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __getgroups_chk (int __size, __gid_t __list[], size_t __listlen)
+                                                           ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:258:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__getgroups_chk_warn,
+            ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:279:52: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __ttyname_r_chk (int __fd, char *__buf, size_t __buflen,
+                                                    ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:280:8: error: expected declaration specifiers or ‘...’ before ‘size_t’
+        size_t __nreal) __THROW __nonnull ((2));
+        ^
+In file included from /usr/include/features.h:374:0,
+                 from /usr/include/stdio.h:27,
+                 from ../HTKLib.64bit/HShell.h:40,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:281:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__ttyname_r_alias, (int __fd, char *__buf,
+            ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:284:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__ttyname_r_chk_warn,
+            ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:284:12: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __REDIRECT_NTH (__ttyname_r_chk_warn,
+            ^
+/usr/include/x86_64-linux-gnu/bits/unistd.h:291:1: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ __NTH (ttyname_r (int __fd, char *__buf, size_t __buflen))
+ ^
+In file included from ../HTKLib.64bit/HShell.h:71:0,
+                 from HDecode.c:44:
+/usr/include/time.h:205:15: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘strftime’
+ extern size_t strftime (char *__restrict __s, size_t __maxsize,
+               ^
+In file included from HDecode.c:45:0:
+../HTKLib.64bit/HMem.h:71:4: error: expected specifier-qualifier-list before ‘size_t’
+    size_t numFree;      /* #free elements            #free bytes          */
+    ^
+../HTKLib.64bit/HMem.h:83:4: error: expected specifier-qualifier-list before ‘size_t’
+    size_t elemSize;     /*  size of each elem              1 always       */
+    ^
+../HTKLib.64bit/HMem.h:95:1: error: unknown type name ‘size_t’
+ size_t MRound(size_t size);
+ ^
+../HTKLib.64bit/HMem.h:95:15: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ size_t MRound(size_t size);
+               ^
+../HTKLib.64bit/HMem.h:111:56: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ void CreateHeap(MemHeap *x, char *name, HeapType type, size_t elemSize, 
+                                                        ^
+../HTKLib.64bit/HMem.h:112:30: error: expected declaration specifiers or ‘...’ before ‘size_t’
+                 float growf, size_t numElem,  size_t maxElem);
+                              ^
+../HTKLib.64bit/HMem.h:112:47: error: expected declaration specifiers or ‘...’ before ‘size_t’
+                 float growf, size_t numElem,  size_t maxElem);
+                                               ^
+../HTKLib.64bit/HMem.h:129:20: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ Ptr New(MemHeap *x,size_t size);
+                    ^
+../HTKLib.64bit/HMem.h:138:21: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ Ptr CNew(MemHeap *x,size_t size);
+                     ^
+../HTKLib.64bit/HMem.h:175:1: error: unknown type name ‘size_t’
+ size_t ShortVecElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:176:1: error: unknown type name ‘size_t’
+ size_t IntVecElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:177:1: error: unknown type name ‘size_t’
+ size_t VectorElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:178:1: error: unknown type name ‘size_t’
+ size_t DVectorElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:179:1: error: unknown type name ‘size_t’
+ size_t SVectorElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:217:1: error: unknown type name ‘size_t’
+ size_t MatrixElemSize(int nrows,int ncols);
+ ^
+../HTKLib.64bit/HMem.h:218:1: error: unknown type name ‘size_t’
+ size_t DMatrixElemSize(int nrows,int ncols);
+ ^
+../HTKLib.64bit/HMem.h:219:1: error: unknown type name ‘size_t’
+ size_t SMatrixElemSize(int nrows,int ncols);
+ ^
+../HTKLib.64bit/HMem.h:220:1: error: unknown type name ‘size_t’
+ size_t TriMatElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:221:1: error: unknown type name ‘size_t’
+ size_t STriMatElemSize(int size);
+ ^
+../HTKLib.64bit/HMem.h:301:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t vecLen;
+     ^
+../HTKLib.64bit/HMem.h:307:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t rowNum;
+     ^
+../HTKLib.64bit/HMem.h:314:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t vecLen;
+     ^
+../HTKLib.64bit/HMem.h:320:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t rowNum;
+     ^
+../HTKLib.64bit/HMem.h:334:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t vecLen;
+     ^
+../HTKLib.64bit/HMem.h:345:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t rowNum;
+     ^
+../HTKLib.64bit/HMem.h:358:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t rowNum;
+     ^
+../HTKLib.64bit/HMem.h:367:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t vecLen;
+     ^
+../HTKLib.64bit/HMem.h:377:1: error: unknown type name ‘size_t’
+ size_t CVectorElemSize(int nlen);
+ ^
+../HTKLib.64bit/HMem.h:378:1: error: unknown type name ‘size_t’
+ size_t CMatrixElemSize(int nrows, int ncols);
+ ^
+../HTKLib.64bit/HMem.h:379:1: error: unknown type name ‘size_t’
+ size_t CDVectorElemSize(int nlen);
+ ^
+../HTKLib.64bit/HMem.h:380:1: error: unknown type name ‘size_t’
+ size_t CDMatrixElemSize(int nrows, int ncols);
+ ^
+../HTKLib.64bit/HMem.h:381:1: error: unknown type name ‘size_t’
+ size_t NVectorElemSize(int nlen);
+ ^
+../HTKLib.64bit/HMem.h:382:1: error: unknown type name ‘size_t’
+ size_t NMatrixElemSize(int nrows, int ncols);
+ ^
+../HTKLib.64bit/HMem.h:391:1: error: unknown type name ‘size_t’
+ size_t CVectorSize(CVector *v);
+ ^
+../HTKLib.64bit/HMem.h:392:1: error: unknown type name ‘size_t’
+ size_t NumCRows(CMatrix *m); 
+ ^
+../HTKLib.64bit/HMem.h:393:1: error: unknown type name ‘size_t’
+ size_t NumCCols(CMatrix *m);
+ ^
+../HTKLib.64bit/HMem.h:394:1: error: unknown type name ‘size_t’
+ size_t CDVectorSize(CDVector *v);
+ ^
+../HTKLib.64bit/HMem.h:395:1: error: unknown type name ‘size_t’
+ size_t NumCDRows(CDMatrix *m);
+ ^
+../HTKLib.64bit/HMem.h:396:1: error: unknown type name ‘size_t’
+ size_t NumCDCols(CDMatrix *m);
+ ^
+../HTKLib.64bit/HMem.h:397:1: error: unknown type name ‘size_t’
+ size_t NVectorSize(NVector *v);
+ ^
+../HTKLib.64bit/HMem.h:398:1: error: unknown type name ‘size_t’
+ size_t NumNRows(NMatrix *m);
+ ^
+../HTKLib.64bit/HMem.h:399:1: error: unknown type name ‘size_t’
+ size_t NumNCols(NMatrix *m);
+ ^
+In file included from HDecode.c:46:0:
+../HTKLib.64bit/HMath.h:385:1: error: expected identifier or ‘(’ before ‘/’ token
+ //cw564 - stimu
+ ^
+../HTKLib.64bit/HMath.h:394:1: error: expected identifier or ‘(’ before ‘/’ token
+ //mix
+ ^
+../HTKLib.64bit/HMath.h:400:1: error: expected identifier or ‘(’ before ‘/’ token
+ //cw564 - end
+ ^
+In file included from HDecode.c:53:0:
+../HTKLib.64bit/HANNet.h:106:1: error: expected identifier or ‘(’ before ‘/’ token
+ //cw564 - stimu -- begin
+ ^
+../HTKLib.64bit/HANNet.h:192:3: warning: data definition has no type or storage class [enabled by default]
+ } StimuParam;
+   ^
+../HTKLib.64bit/HANNet.h:192:3: warning: type defaults to ‘int’ in declaration of ‘StimuParam’ [-Wimplicit-int]
+../HTKLib.64bit/HANNet.h:195:19: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+ extern StimuParam * STP(void);
+                   ^
+../HTKLib.64bit/HANNet.h:203:1: error: expected identifier or ‘(’ before ‘/’ token
+ //cw564 - stimu -- end
+ ^
+../HTKLib.64bit/HANNet.h:225:3: warning: data definition has no type or storage class [enabled by default]
+ } RPLInfo;
+   ^
+../HTKLib.64bit/HANNet.h:225:3: warning: type defaults to ‘int’ in declaration of ‘RPLInfo’ [-Wimplicit-int]
+../HTKLib.64bit/HANNet.h:375:5: error: expected specifier-qualifier-list before ‘RPLInfo’
+     RPLInfo *rplNMatInfo[MAXNUMRPLNMAT];
+     ^
+In file included from HDecode.c:60:0:
+../HTKLib.64bit/HLat.h:89:36: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ void LatAttachInfo (MemHeap *heap, size_t size, Lattice *lat);
+                                    ^
+In file included from /usr/include/sched.h:41:0,
+                 from /usr/include/pthread.h:23,
+                 from ../HTKLib.64bit/HNCache.h:45,
+                 from HDecode.c:62:
+/usr/include/x86_64-linux-gnu/bits/sched.h:203:30: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern int __sched_cpucount (size_t __setsize, const cpu_set_t *__setp)
+                              ^
+/usr/include/x86_64-linux-gnu/bits/sched.h:205:37: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ extern cpu_set_t *__sched_cpualloc (size_t __count) __THROW __wur;
+                                     ^
+In file included from ../HTKLib.64bit/HNCache.h:45:0,
+                 from HDecode.c:62:
+/usr/include/pthread.h:317:11: error: expected declaration specifiers or ‘...’ before ‘size_t’
+           size_t *__guardsize)
+           ^
+/usr/include/pthread.h:322:11: error: expected declaration specifiers or ‘...’ before ‘size_t’
+           size_t __guardsize)
+           ^
+/usr/include/pthread.h:380:19: error: expected declaration specifiers or ‘...’ before ‘size_t’
+           __attr, size_t *__restrict __stacksize)
+                   ^
+/usr/include/pthread.h:387:11: error: expected declaration specifiers or ‘...’ before ‘size_t’
+           size_t __stacksize)
+           ^
+In file included from HDecode.c:62:0:
+../HTKLib.64bit/HNCache.h:126:5: error: expected specifier-qualifier-list before ‘size_t’
+     size_t cacheSamples;           /* the approx number of samples stored in this cache */
+     ^
+../HTKLib.64bit/HNCache.h:172:1: error: unknown type name ‘size_t’
+ size_t GetDefaultNCacheSamples(void);
+ ^
+../HTKLib.64bit/HNCache.h:175:25: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ void AccAllCacheSamples(size_t curCacheSamp);
+                         ^
+../HTKLib.64bit/HNCache.h:179:113: error: expected declaration specifiers or ‘...’ before ‘size_t’
+ DataCache *CreateCache(MemHeap *heap, FILE *scpFile, int scpCnt, HMMSet *hset, Observation *obs, int streamIdx, size_t cacheSamples, VisitKind visitKind, XFInfo *xfInfo, LabelInfo *labelInfo, Boolean saveUttName);
+                                                                                                                 ^
+In file included from HLVRec.h:49:0,
+                 from HDecode.c:67:
+HLVModel.h:111:4: error: expected specifier-qualifier-list before ‘size_t’
+    size_t floatsPerMix;
+    ^
+HDecode.c: In function ‘ReportUsage’:
+HDecode.c:271:4: warning: format ‘%d’ expects argument of type ‘int’, but argument 2 has type ‘long unsigned int’ [-Wformat=]
+    printf ("\n  sizes: PronId=%d  LMId=%d \n", sizeof (PronId), sizeof (LMId));
+    ^
+HDecode.c:271:4: warning: format ‘%d’ expects argument of type ‘int’, but argument 3 has type ‘long unsigned int’ [-Wformat=]
+HDecode.c: In function ‘main’:
+HDecode.c:291:4: warning: implicit declaration of function ‘InitSigP’ [-Wimplicit-function-declaration]
+    InitSigP ();
+    ^
+HDecode.c:321:4: warning: implicit declaration of function ‘CreateHeap’ [-Wimplicit-function-declaration]
+    CreateHeap(&modelHeap, "Model heap",  MSTAK, 1, 0.0, 100000, 800000 );
+    ^
+HDecode.c:327:7: warning: implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+       if (strlen (s) != 1)
+       ^
+HDecode.c:327:11: warning: incompatible implicit declaration of built-in function ‘strlen’ [enabled by default]
+       if (strlen (s) != 1)
+           ^
+HDecode.c:567:27: error: expected expression before ‘/’ token
+    InitStimu(&modelHeap); //cw564 - stimu
+                           ^
+HDecode.c: In function ‘Initialise’:
+HDecode.c:771:4: warning: implicit declaration of function ‘New’ [-Wimplicit-function-declaration]
+    obs = (Observation *) New (&gcheap, outpBlocksize * sizeof (Observation)); /* TODO: for Tandem system, might need an extra obs */
+    ^
+HDecode.c:771:10: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+    obs = (Observation *) New (&gcheap, outpBlocksize * sizeof (Observation)); /* TODO: for Tandem system, might need an extra obs */
+          ^
+HDecode.c:818:10: warning: implicit declaration of function ‘CreateCache’ [-Wimplicit-function-declaration]
+          cache[i] = CreateCache(&cacheHeap, script, scriptcount, &hset, &obs[0], 1, GetDefaultNCacheSamples(), NONEVK, &xfInfo, NULL, TRUE);
+          ^
+HDecode.c:818:19: warning: assignment makes pointer from integer without a cast [enabled by default]
+          cache[i] = CreateCache(&cacheHeap, script, scriptcount, &hset, &obs[0], 1, GetDefaultNCacheSamples(), NONEVK, &xfInfo, NULL, TRUE);
+                   ^
+HDecode.c: In function ‘FindLexNetLab’:
+HDecode.c:871:12: warning: assignment makes pointer from integer without a cast [enabled by default]
+       info = New (heap, sizeof (BestInfo));
+            ^
+HDecode.c:887:21: warning: assignment makes pointer from integer without a cast [enabled by default]
+                info = New (heap, sizeof (BestInfo));
+                     ^
+HDecode.c:902:18: warning: assignment makes pointer from integer without a cast [enabled by default]
+             info = New (heap, sizeof (BestInfo));
+                  ^
+HDecode.c: In function ‘CreateBestInfo’:
+HDecode.c:955:18: warning: assignment makes pointer from integer without a cast [enabled by default]
+    bestAlignInfo = New (&transHeap, sizeof (BestInfo));
+                  ^
+HDecode.c:923:10: warning: variable ‘lnLabId’ set but not used [-Wunused-but-set-variable]
+    LabId lnLabId;
+          ^
+HDecode.c: In function ‘PrintAlignBestInfo’:
+HDecode.c:987:34: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+       phonePost = dec->phonePost[(int) monoPhone->aux];
+                                  ^
+HDecode.c: In function ‘AnalyseSearchSpace’:
+HDecode.c:1009:43: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+            dec->bestScore, dec->phonePost[(int) monoPhone->aux]);
+                                           ^
+HDecode.c: In function ‘LoadCacheVec’:
+HDecode.c:1042:46: error: ‘NMatrix’ has no member named ‘matElems’
+                 CopyNFloatSeg2FloatSeg(srcMat->matElems + i * layerElem->nodeNum, layerElem->nodeNum, dec->cacheVec[i][s] + offset);
+                                              ^
+HDecode.c:1048:50: error: ‘NMatrix’ has no member named ‘matElems’
+                     CopyNFloatSeg2FloatSeg(srcMat->matElems + i * feaElem->srcDim + feaElem->dimOff, feaElem->extDim, dec->cacheVec[i][s] + offset); 
+                                                  ^
+HDecode.c: In function ‘DoRecognition’:
+HDecode.c:1084:17: warning: variable ‘changed’ set but not used [-Wunused-but-set-variable]
+         Boolean changed;
+                 ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected ‘;’ before ‘__s1_len’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: ‘__s1_len’ undeclared (first use in this function)
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: note: each undeclared identifier is reported only once for each function it appears in
+HDecode.c:1218:13: error: ‘__s2_len’ undeclared (first use in this function)
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+In file included from /usr/include/string.h:635:0,
+                 from ../HTKLib.64bit/HShell.h:43,
+                 from HDecode.c:44:
+HDecode.c:1218:13: error: expected expression before ‘const’
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+HDecode.c:1218:13: error: called object ‘size_t’ is not a function or function pointer
+         if (strcmp(GetCurUttName(cache[1]), fn) != 0) {
+             ^
+In file included from /usr/include/unistd.h:1148:0,
+                 from ../HTKLib.64bit/HShell.h:70,
+                 from HDecode.c:44:
+/usr/include/x86_64-linux-gnu/bits/unistd.h:239:20: note: declared here
+ __fortify_function size_t
+                    ^
+HDecode.c:1247:60: error: ‘DataCache’ has no member named ‘CMDVecPL’
+             ForwardPropBatch(hset.annSet, nLoaded, cache[1]->CMDVecPL);
+                                                            ^
+HDecode.c:1073:13: warning: variable ‘finish’ set but not used [-Wunused-but-set-variable]
+     Boolean finish[SMAX];
+             ^
+make[1]: *** [HDecode.orig.o] Error 1
+make: *** [hdecode] Error 1

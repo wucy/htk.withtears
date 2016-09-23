@@ -1,0 +1,114 @@
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHBuild = xHSLab ] ; then \
+		gcc -o HBuild -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HBuild.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HBuild -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HBuild.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HBuild /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHCompV = xHSLab ] ; then \
+		gcc -o HCompV -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HCompV.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HCompV -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HCompV.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HCompV /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHCopy = xHSLab ] ; then \
+		gcc -o HCopy -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HCopy.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HCopy -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HCopy.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HCopy /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHDMan = xHSLab ] ; then \
+		gcc -o HDMan -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HDMan.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HDMan -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HDMan.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HDMan /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHERest = xHSLab ] ; then \
+		gcc -o HERest -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HERest.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HERest -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HERest.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HERest /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHHEd = xHSLab ] ; then \
+		gcc -o HHEd -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HHEd.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HHEd -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HHEd.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HHEd /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHInit = xHSLab ] ; then \
+		gcc -o HInit -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HInit.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HInit -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HInit.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HInit /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHLEd = xHSLab ] ; then \
+		gcc -o HLEd -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HLEd.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HLEd -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HLEd.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HLEd /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHList = xHSLab ] ; then \
+		gcc -o HList -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HList.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HList -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HList.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HList /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHLRescore = xHSLab ] ; then \
+		gcc -o HLRescore -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HLRescore.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HLRescore -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HLRescore.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HLRescore /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHLStats = xHSLab ] ; then \
+		gcc -o HLStats -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HLStats.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HLStats -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HLStats.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HLStats /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHMMIRest = xHSLab ] ; then \
+		gcc -o HMMIRest -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HMMIRest.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HMMIRest -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HMMIRest.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HMMIRest /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHParse = xHSLab ] ; then \
+		gcc -o HParse -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HParse.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HParse -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HParse.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HParse /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHQuant = xHSLab ] ; then \
+		gcc -o HQuant -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HQuant.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HQuant -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HQuant.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HQuant /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHRest = xHSLab ] ; then \
+		gcc -o HRest -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HRest.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HRest -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HRest.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HRest /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHResults = xHSLab ] ; then \
+		gcc -o HResults -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HResults.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HResults -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HResults.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HResults /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHSGen = xHSLab ] ; then \
+		gcc -o HSGen -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HSGen.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HSGen -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HSGen.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HSGen /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHSmooth = xHSLab ] ; then \
+		gcc -o HSmooth -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HSmooth.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HSmooth -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HSmooth.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HSmooth /usr/local/bin  ; fi
+if [ ! -d /usr/local/bin -a X_ = X_yes ] ; then mkdir -p /usr/local/bin ; fi
+if [ xHVite = xHSLab ] ; then \
+		gcc -o HVite -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HVite.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm -lX11 ; \
+		else \
+		gcc -o HVite -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib -DPHNALG HVite.c ../HTKLib/HTKLib.a -L/usr/X11R6/lib  -lm ; fi
+if [ X_ = X_yes ] ; then /usr/bin/install -c -m 755 HVite /usr/local/bin  ; fi

@@ -1,0 +1,24 @@
+gcc -c -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HDecode.c
+mv HDecode.o HDecode.orig.o
+gcc -c -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVNet.c
+mv HLVNet.o HLVNet.orig.o
+gcc -c -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVRec.c 
+mv HLVRec.o HLVRec.orig.o
+gcc -c -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVLM.c
+mv HLVLM.o HLVLM.orig.o
+gcc -c -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVModel.c
+mv HLVModel.o HLVModel.orig.o
+gcc -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib	 -o HDecode HDecode.orig.o HLVNet.orig.o HLVRec.orig.o HLVLM.orig.o \
+	HLVModel.orig.o ../HTKLib/HTKLiblv.a -L/usr/X11R6/lib  -lm
+gcc -c -DHDECODE_MOD -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HDecode.c
+mv HDecode.o HDecode.mod.o
+gcc -c -DHDECODE_MOD -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVNet.c
+mv HLVNet.o HLVNet.mod.o
+gcc -c -DHDECODE_MOD -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVRec.c 
+mv HLVRec.o HLVRec.mod.o
+gcc -c -DHDECODE_MOD -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVLM.c
+mv HLVLM.o HLVLM.mod.o
+gcc -c -DHDECODE_MOD -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib HLVModel.c
+mv HLVModel.o HLVModel.mod.o
+gcc -DNO_LAT_LM -m32 -ansi -D_SVID_SOURCE -DOSS_AUDIO -D'ARCH="x86_64"' -Wall -Wno-switch -g -O2 -I../HTKLib	 -o HDecode.mod HDecode.mod.o HLVNet.mod.o HLVRec.mod.o HLVLM.mod.o \
+	HLVModel.mod.o ../HTKLib/HTKLiblv.a -L/usr/X11R6/lib  -lm
